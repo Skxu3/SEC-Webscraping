@@ -1,0 +1,187 @@
+1. find pairs of 4/a & 4
+2. id differences between 4/a & 4
+
+==== observations
+**** form 4 dont have <dateOfOriginalSubmission>2007-12-05</dateOfOriginalSubmission>****
+		^ correspond to "date of original filed" in form 4
+
+4/a only change 1 transaction in 4 
+	4/a: https://www.sec.gov/Archives/edgar/data/1084869/000114036114044053/0001140361-14-044053.txt
+	4: https://www.sec.gov/Archives/edgar/data/1084869/000114036114043945/0001140361-14-043945.txt
+
+-> 
+
+- yes timeliness in form 4? - not always <otherText/> in 4
+multiple forms w same file numbers
+
+====
+
+====					
+4/a <dateOfOriginalSubmission>2007-12-05</dateOfOriginalSubmission>	
+4 FILED AS OF DATE:		20071205
+     not <periodOfReport>2007-12-04</periodOfReport> => CONFORMED PERIOD OF REPORT:	20071204
+
+4/a https://www.sec.gov/Archives/edgar/data/1084869/000108486918000023/0001084869-18-000023-index.htm
+- not exact same signatureName (/s/ Michael vs /s/Michael)
+4 https://www.sec.gov/Archives/edgar/data/1084869/000156761918001908/0001567619-18-001908-index.htm
+
+4/a https://www.sec.gov/Archives/edgar/data/1084869/000108486915000044/xslF345X03/primary_doc.xml
+4 https://www.sec.gov/Archives/edgar/data/1084869/000108486915000043/xslF345X03/primary_doc.xml
+===
+4/a
+sec overview pg: https://www.sec.gov/Archives/edgar/data/1084869/000108486907000036/0001084869-07-000036-index.htm
+get request response txt: https://www.sec.gov/Archives/edgar/data/1084869/000108486907000036/0001084869-07-000036.txt
+xml: https://www.sec.gov/Archives/edgar/data/1084869/000108486907000036/xslF345X02/formfouramen_ex.xml
+xmltree: https://www.sec.gov/Archives/edgar/data/1084869/000108486907000036/formfouramen_ex.xml
+
+- header raw text:
+FILED AS OF DATE:       20071205
+DATE AS OF CHANGE:      20071205
+- corresponds to sec overview pg:          <SEC-HEADER> might be sec overview pg
+Filing Date
+2007-12-05
+Accepted
+2007-12-05 17:14:08
+
+original 4
+sec overview: https://www.sec.gov/Archives/edgar/data/1084869/000108486907000031/0001084869-07-000031-index.htm
+get req: https://www.sec.gov/Archives/edgar/data/1084869/000108486907000031/0001084869-07-000031.txt
+
+SQLite: relational database
+- serverless. all transactions = ACID (atomic, consistent, isolated, durable)
+
+primary key: each record's unique id, can't be null
+- one table = 1 primary key
+
+foreign key: used to link 2 tables together
+- FOREIGN KEY is a field (or collection of fields) in one table that refers to the PRIMARY KEY in another table.
+- cant have cycles in foreign key referencing
+
+CREATE TABLE Orders (
+    OrderID int NOT NULL,
+    OrderNumber int NOT NULL,
+    PersonID int,
+    PRIMARY KEY (OrderID),
+    FOREIGN KEY (PersonID) REFERENCES Persons(PersonID) //Persons table
+);
+
+- most databases = relational
+- sql = declarative programming: say what u want not how to get
+- relation: 1) schema - description of cols, types, & constraints. 2) instance - data satisfying schema
+
+connection.cursor(): create cursor to allow python to execute postgress sql commands; not thread safe
+
+*footnote????*
+open db in terminal: sqlite3 ACCT/database.db
+show tables: .tables
+
+https://www.sec.gov/Archives/edgar/data/1214101/0001104659-07-084171.txt
+- multiple reporting owners
+- remarks?????
+- text???
+
+headId: accNum-rowNumber
+footNoteId: accNum-rowNumber-originalTableType-fId-footNoteField
+nDTId: accNum-rowNumber
+dTId: accNum-rowNumber
+
+CREATE TABLE IF NOT EXISTS form4head (
+accNum text NOT NULL,
+headId text PRIMARY KEY NOT NULL, #accNum-rowNumber
+rowNumber integer DEFAULT 1,
+documentType text NOT NULL,
+publicDocCount integer DEFAULT 0,
+periodOfReport text,
+filedDate text,
+changedDate text,
+schemaVersion text,
+dateOfOriginalSubmission text,
+notSubjectToSection16 integer DEFAULT 0,
+issuerName text,
+issuerCik text,
+issuerIndustrialClassification text,
+issuerIrs text,
+issuerIncorpState text,
+issuerFiscalYrEnd text,
+issuerBusinessStreet1 text,
+issuerBusinessCity text,
+issuerBusinessState text,
+issuerBusinessZip text,
+issuerBusinessPhone text,
+issuerMailStreet1 text,
+issuerMailStreet2 text,
+issuerMailCity text,
+issuerMailState text,
+issuerMailZip text,
+issuerTradingSymbol text,
+rptOwnerName text,
+rptOwnerCik text DEFAULT 0,
+rptOwnerFormType text,
+rptOwnerSecAct text,
+rptOwnerSecFileNum text,
+rptOwnerFilmNum text,
+rptOwnerBusinessPhone text,
+rptOwnerStreet1 text,
+rptOwnerStreet2 text,
+rptOwnerCity text,
+rptOwnerState text,
+rptOwnerZipCode text,
+rptOwnerStateDescription text,
+rptOwnerisDirector integer DEFAULT 0,
+rptOwnerisOfficer integer DEFAULT 0,
+rptOwnerisTenPercentOwner integer DEFAULT 0,
+rptOwnerisOther integer DEFAULT 0
+);
+
+CREATE TABLE IF NOT EXISTS form4dT (
+accNum text NOT NULL,
+dTId text PRIMARY KEY NOT NULL, #accNum-rowNumber
+rowNumber integer DEFAULT 1,
+securityTitle text,
+conversionOrExercisePrice text,
+transactionDate text,
+transactionFormType text,
+transactionCode text,
+equitySwapInvolved text,
+transactionShares text,
+transactionPricePerShare text,
+transactionAcquiredDisposedCode text,
+exerciseDate text,
+expirationDate text,
+underlyingSecurityTitle text,
+underlyingSecurityShares text,
+sharesOwnedFollowingTransaction text,
+directOrIndirectOwnership text,
+footNoteId text,
+FOREIGN KEY(footNoteId) REFERENCES form4footNote(footNoteId)
+);
+
+CREATE TABLE IF NOT EXISTS form4footNote (
+ accNum text NOT NULL,
+ rowNumber integer DEFAULT 1,
+ footNoteId text PRIMARY KEY NOT NULL, #accNum-rowNumber-originalTableType-fId-footNoteField
+ fId text,
+ originalTableType text,
+ footNoteField text,
+ footNote text
+);
+
+CREATE TABLE IF NOT EXISTS form4nDT (
+accNum text NOT NULL,
+nDTId text PRIMARY KEY NOT NULL, #accNum-rowNumber
+rowNumber integer DEFAULT 1,
+securityTitle text,
+transactionDate text,
+transactionFormType text,
+transactionCode text,
+equitySwapInvolved text,
+transactionTimelines text,
+transactionShares text,
+transactionPricePerShare text,
+transactionAcquiredDisposedCode text,
+sharesOwnedFollowingTransaction text,
+directOrIndirectOwnership text,
+natureOfOwnership text,
+footNoteId text,
+FOREIGN KEY(footNoteId) REFERENCES form4footNote(footNoteId)
+);
