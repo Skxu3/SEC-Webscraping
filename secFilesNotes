@@ -1,5 +1,117 @@
-1. find pairs of 4/a & 4
-2. id differences between 4/a & 4
+-amendment can be change existing or add new (dont think possible to delete transaction???)
+-https://www.sec.gov/about/forms/form4data.pdf: 
+  Do not repeat lines of transaction information that were disclosed in the original Form and are not being amended
+
+step 1: pull in docs to database
+step 2: match 4/a w 4 w/ join
+step 3: match transactions
+
+matching transactions:
+1. max # matching fields
+2. if only want numebrs that changed, join based on all other fields & get diff of numbers
+====
+final output table schema
+
+CREATE TABLE IF NOT EXISTS form4head (
+accNum text NOT NULL,
+headId text PRIMARY KEY NOT NULL, #accNum-rowNumber
+rowNumber integer DEFAULT 1,
+  #documentType text NOT NULL,
+  #publicDocCount integer DEFAULT 0,
+periodOfReport text,
+filedDate text,
+changedDate text,
+*amendmentDate
+  #dateOfOriginalSubmission text,
+....
+);
+
+CREATE TABLE IF NOT EXISTS form4dT (
+accNum text NOT NULL,
+dTId text PRIMARY KEY NOT NULL, #accNum-rowNumber
+rowNumber integer DEFAULT 1,
+securityTitle text,
+conversionOrExercisePrice text,
+transactionDate text,
+transactionFormType text,
+transactionCode text,
+equitySwapInvolved text,
+transactionShares text,
+transactionPricePerShare text,
+transactionAcquiredDisposedCode text,
+exerciseDate text,
+expirationDate text,
+underlyingSecurityTitle text,
+underlyingSecurityShares text,
+sharesOwnedFollowingTransaction text,
+directOrIndirectOwnership text,
+footNoteId text,
+FOREIGN KEY(footNoteId) REFERENCES form4footNote(footNoteId)
+
+*amended text,
+amendedSecurityTitle text,
+amendedConversionOrExercisePrice text,
+amendedTransactionDate text,
+amendedTransactionFormType text,
+amendedTransactionCode text,
+amendedEquitySwapInvolved text,
+amendedTransactionShares text,
+amendedTransactionPricePerShare text,
+amendedTransactionAcquiredDisposedCode text,
+amendedExerciseDate text,
+amendedExpirationDate text,
+amendedUnderlyingSecurityTitle text,
+amendedUnderlyingSecurityShares text,
+amendedSharesOwnedFollowingTransaction text,
+amendedDirectOrIndirectOwnership text,
+);
+
+CREATE TABLE IF NOT EXISTS form4nDT (
+accNum text NOT NULL,
+nDTId text PRIMARY KEY NOT NULL, #accNum-rowNumber
+rowNumber integer DEFAULT 1,
+securityTitle text,
+transactionDate text,
+transactionFormType text,
+transactionCode text,
+equitySwapInvolved text,
+transactionTimelines text,
+transactionShares text,
+transactionPricePerShare text,
+transactionAcquiredDisposedCode text,
+sharesOwnedFollowingTransaction text,
+directOrIndirectOwnership text,
+natureOfOwnership text,
+footNoteId text,
+FOREIGN KEY(footNoteId) REFERENCES form4footNote(footNoteId)
+
+amended text,
+amendedSecurityTitle text,
+amendedTransactionDate text,
+amendedTransactionFormType text,
+amendedTransactionCode text,
+amendedEquitySwapInvolved text,
+amendedTransactionTimelines text,
+amendedTransactionShares text,
+amendedTransactionPricePerShare text,
+amendedTransactionAcquiredDisposedCode text,
+amendedSharesOwnedFollowingTransaction text,
+amendedDirectOrIndirectOwnership text,
+amendedNatureOfOwnership text,
+);
+
+CREATE TABLE IF NOT EXISTS form4footNote (
+ accNum text NOT NULL,
+ rowNumber integer DEFAULT 1,
+ footNoteId text PRIMARY KEY NOT NULL, #accNum-rowNumber-originalTableType-fId-footNoteField
+ fId text,
+ originalTableType text,
+ footNoteField text,
+ footNote text
+);
+
+
+
 
 ==== observations
 **** form 4 dont have <dateOfOriginalSubmission>2007-12-05</dateOfOriginalSubmission>****
@@ -13,8 +125,25 @@
 
 - yes timeliness in form 4? - not always <otherText/> in 4
 multiple forms w same file numbers
+====
+
+
+
 
 ====
+select * from form4ndT A, form4ndT B where A.accNum = '1084869/000108486914000025/0001084869-14-000025' and B.accNum = '1084869/000108486914000024/0001084869-14-000024';
+
+
+
+match 
+1084869/000108486914000025/0001084869-14-000025||20141210|20141210
+- get 1
+select * from form4ndT where accNum = '1084869/000108486914000025/0001084869-14-000025';
+  1084869/000108486914000025/0001084869-14-000025|1084869/000108486914000025/0001084869-14-000025-1|1|<value>Class A Common Stock</value>|<value>2014-12-08</value>|4|A|0|0|<value>2516</value>|<value>0</value><footnoteId id="F1"/>|<value>A</value>|<value>30808</value>|<value>D</value>||
+select * from form4ndT where accNum = '1084869/000108486914000024/0001084869-14-000024';
+  1084869/000108486914000025/0001084869-14-000025|1084869/000108486914000025/0001084869-14-000025-1|1|<value>Class A Common Stock</value>|<value>2014-12-08</value>|4|A|0|0|<value>2516</value>|<value>0</value><footnoteId id="F1"/>|<value>A</value>|<value>30808</value>|<value>D</value>||
+
+
 
 ====					
 4/a <dateOfOriginalSubmission>2007-12-05</dateOfOriginalSubmission>	

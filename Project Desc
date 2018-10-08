@@ -45,12 +45,44 @@ Header fields : not tabbed means must be same; tabbed = can be diff
 'rptOwnerisOther'
 
 dTfields - but although any field should be able to be changed??
+    accNum text NOT NULL,
+    dTId text PRIMARY KEY NOT NULL, #accNum-rowNumber
     rowNumber integer DEFAULT 1,
-    securityTitle text,         //if typo does it still matter
-    transactionDate text,
-    transactionFormType text,
+securityTitle text,
+conversionOrExercisePrice text,
+transactionDate text,
+transactionFormType text,
+transactionCode text,
+equitySwapInvolved text,
+*transactionShares text,
+*transactionPricePerShare text, //what if footnote?
+transactionAcquiredDisposedCode text,
+exerciseDate text,
+expirationDate text,
+underlyingSecurityTitle text,
+*underlyingSecurityShares text,
+*sharesOwnedFollowingTransaction text,
+directOrIndirectOwnership text,
+    footNoteId text,
+
 ndtFields
+    accNum text NOT NULL,
+    nDTId text PRIMARY KEY NOT NULL, #accNum-rowNumber
     rowNumber integer DEFAULT 1,
+securityTitle text,
+transactionDate text,
+transactionFormType text,
+transactionCode text,
+equitySwapInvolved text,
+transactionTimelines text,
+*transactionShares text,
+*transactionPricePerShare text,
+transactionAcquiredDisposedCode text,
+*sharesOwnedFollowingTransaction text,
+directOrIndirectOwnership text,
+natureOfOwnership text,
+    footNoteId text,
+    FOREIGN KEY(footNoteId) REFERENCES form4footNote(footNoteId)
 ===
 
 

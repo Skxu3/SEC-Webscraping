@@ -1,12 +1,12 @@
-<SEC-DOCUMENT>0001084869-13-000040.txt : 20131210
-<SEC-HEADER>0001084869-13-000040.hdr.sgml : 20131210
-<ACCEPTANCE-DATETIME>20131210163612
-ACCESSION NUMBER:		0001084869-13-000040
+<SEC-DOCUMENT>0001084869-14-000003.txt : 20140210
+<SEC-HEADER>0001084869-14-000003.hdr.sgml : 20140210
+<ACCEPTANCE-DATETIME>20140210155444
+ACCESSION NUMBER:		0001084869-14-000003
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
-CONFORMED PERIOD OF REPORT:	20131206
-FILED AS OF DATE:		20131210
-DATE AS OF CHANGE:		20131210
+CONFORMED PERIOD OF REPORT:	20140203
+FILED AS OF DATE:		20140210
+DATE AS OF CHANGE:		20140210
 
 ISSUER:		
 
@@ -35,14 +35,20 @@ ISSUER:
 REPORTING-OWNER:	
 
 	OWNER DATA:	
-		COMPANY CONFORMED NAME:			GALLAGHER GERARD M
-		CENTRAL INDEX KEY:			0001240818
+		COMPANY CONFORMED NAME:			Leap Arnold P
+		CENTRAL INDEX KEY:			0001406308
 
 	FILING VALUES:
 		FORM TYPE:		4
 		SEC ACT:		1934 Act
 		SEC FILE NUMBER:	000-26841
-		FILM NUMBER:		131268780
+		FILM NUMBER:		14588489
+
+	MAIL ADDRESS:	
+		STREET 1:		25 HANCOCK COURT
+		CITY:			SOUTH SETAUKET
+		STATE:			NY
+		ZIP:			11720
 </SEC-HEADER>
 <DOCUMENT>
 <TYPE>4
@@ -58,7 +64,7 @@ REPORTING-OWNER:
 
     <documentType>4</documentType>
 
-    <periodOfReport>2013-12-06</periodOfReport>
+    <periodOfReport>2014-02-03</periodOfReport>
 
     <notSubjectToSection16>0</notSubjectToSection16>
 
@@ -70,8 +76,8 @@ REPORTING-OWNER:
 
     <reportingOwner>
         <reportingOwnerId>
-            <rptOwnerCik>0001240818</rptOwnerCik>
-            <rptOwnerName>GALLAGHER GERARD M</rptOwnerName>
+            <rptOwnerCik>0001406308</rptOwnerCik>
+            <rptOwnerName>Leap Arnold P</rptOwnerName>
         </reportingOwnerId>
         <reportingOwnerAddress>
             <rptOwnerStreet1>ONE OLD COUNTRY ROAD</rptOwnerStreet1>
@@ -86,7 +92,7 @@ REPORTING-OWNER:
             <isOfficer>1</isOfficer>
             <isTenPercentOwner>0</isTenPercentOwner>
             <isOther>0</isOther>
-            <officerTitle>General Counsel and SVP</officerTitle>
+            <officerTitle>Chief Information Officer</officerTitle>
         </reportingOwnerRelationship>
     </reportingOwner>
 
@@ -96,11 +102,11 @@ REPORTING-OWNER:
                 <value>Class A Common Stock</value>
             </securityTitle>
             <transactionDate>
-                <value>2013-12-06</value>
+                <value>2014-02-03</value>
             </transactionDate>
             <transactionCoding>
                 <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
+                <transactionCode>A</transactionCode>
                 <equitySwapInvolved>0</equitySwapInvolved>
             </transactionCoding>
             <transactionTimeliness>
@@ -108,12 +114,10 @@ REPORTING-OWNER:
             </transactionTimeliness>
             <transactionAmounts>
                 <transactionShares>
-                    <value>18091</value>
-                    <footnoteId id="F1"/>
+                    <value>10000</value>
                 </transactionShares>
                 <transactionPricePerShare>
-                    <value>5.01</value>
-                    <footnoteId id="F2"/>
+                    <value>0</value>
                 </transactionPricePerShare>
                 <transactionAcquiredDisposedCode>
                     <value>D</value>
@@ -121,74 +125,20 @@ REPORTING-OWNER:
             </transactionAmounts>
             <postTransactionAmounts>
                 <sharesOwnedFollowingTransaction>
-                    <value>274676</value>
+                    <value>10000</value>
                 </sharesOwnedFollowingTransaction>
             </postTransactionAmounts>
             <ownershipNature>
                 <directOrIndirectOwnership>
-                    <value>I</value>
-                </directOrIndirectOwnership>
-                <natureOfOwnership>
-                    <value>Indirect</value>
-                    <footnoteId id="F3"/>
-                </natureOfOwnership>
-            </ownershipNature>
-        </nonDerivativeTransaction>
-        <nonDerivativeTransaction>
-            <securityTitle>
-                <value>Class A Common Stock</value>
-            </securityTitle>
-            <transactionDate>
-                <value>2013-12-09</value>
-            </transactionDate>
-            <transactionCoding>
-                <transactionFormType>4</transactionFormType>
-                <transactionCode>S</transactionCode>
-                <equitySwapInvolved>0</equitySwapInvolved>
-            </transactionCoding>
-            <transactionTimeliness>
-                <value></value>
-            </transactionTimeliness>
-            <transactionAmounts>
-                <transactionShares>
-                    <value>18587</value>
-                    <footnoteId id="F1"/>
-                </transactionShares>
-                <transactionPricePerShare>
-                    <value>4.98</value>
-                    <footnoteId id="F4"/>
-                </transactionPricePerShare>
-                <transactionAcquiredDisposedCode>
                     <value>D</value>
-                </transactionAcquiredDisposedCode>
-            </transactionAmounts>
-            <postTransactionAmounts>
-                <sharesOwnedFollowingTransaction>
-                    <value>256089</value>
-                </sharesOwnedFollowingTransaction>
-            </postTransactionAmounts>
-            <ownershipNature>
-                <directOrIndirectOwnership>
-                    <value>I</value>
                 </directOrIndirectOwnership>
-                <natureOfOwnership>
-                    <value>Indirect</value>
-                    <footnoteId id="F3"/>
-                </natureOfOwnership>
             </ownershipNature>
         </nonDerivativeTransaction>
     </nonDerivativeTable>
 
-    <footnotes>
-        <footnote id="F1">Proceeds from stock sale to be used to pay taxes related to the vesting of several equity grants.</footnote>
-        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $5.00 to $5.04, inclusive. The reporting person undertakes to provide to 1-800-Flowers, any security holder of 1-800-Flowers, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote.</footnote>
-        <footnote id="F3">Securities held by Holder in his capacity as partner of Gallagher, Walker, Bianco &amp; Plastaras, LLP. Holder maintains sole voting and investment power over the securities.</footnote>
-        <footnote id="F4">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $4.90 to $5.09 inlcusive. The reporting person undertakes to provide to 1-800-Flowers, any security holder of 1-800-Flowers, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth above in this footnote.</footnote>
-    </footnotes>
-
     <ownerSignature>
-        <signatureName>/s/Gerard M. Gallagher</signatureName>
-        <signatureDate>2013-12-10</signatureDate>
+        <signatureName>/s/Arnold P. Leap</signatureName>
+        <signatureDate>2014-02-10</signatureDate>
     </ownerSignature>
 </ownershipDocument>
 </XML>
