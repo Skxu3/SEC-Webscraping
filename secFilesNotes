@@ -1,3 +1,4 @@
+====
 -amendment can be change existing or add new (dont think possible to delete transaction???)
 -https://www.sec.gov/about/forms/form4data.pdf: 
   Do not repeat lines of transaction information that were disclosed in the original Form and are not being amended
@@ -9,6 +10,34 @@ step 3: match transactions
 matching transactions:
 1. max # matching fields
 2. if only want numebrs that changed, join based on all other fields & get diff of numbers
+===
+find all 4/4/a: https://www.sec.gov/cgi-bin/srch-edgar?text=TYPE%3D4&first=2017&last=2017
+
+given matches: 
+  effectness of filter
+
+1. marginal for a specific field
+  maybe focus in june of yr?? 
+filed date & dateoforiginal submision - how many matches
+name of company & dates - how many matches 
+issuer & report names - how many matches
+
+
+ind industry has way of filing; ind lawyer has way of filing (class of error)
+  how many days after original 
+
+transaction:
+
+distribution of # of form 4 transaction: most of them have 1/2
+  
+more amendments for derivative? more for industry (cik)? 
+  distribution of # amendments in amendments? 
+  weighted edit distance: probability for each original transaction (prob distribution)
+
+try diff ways of matching -> computer prob distribution
+  rank correlation coefficient
+  - 
+
 ====
 final output table schema
 

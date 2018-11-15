@@ -1,60 +1,77 @@
-<SEC-DOCUMENT>0001084869-14-000003.txt : 20140210
-<SEC-HEADER>0001084869-14-000003.hdr.sgml : 20140210
-<ACCEPTANCE-DATETIME>20140210155444
-ACCESSION NUMBER:		0001084869-14-000003
+<SEC-DOCUMENT>0001209191-17-014365.txt : 20170224
+<SEC-HEADER>0001209191-17-014365.hdr.sgml : 20170224
+<ACCEPTANCE-DATETIME>20170224163630
+ACCESSION NUMBER:		0001209191-17-014365
 CONFORMED SUBMISSION TYPE:	4
 PUBLIC DOCUMENT COUNT:		1
-CONFORMED PERIOD OF REPORT:	20140203
-FILED AS OF DATE:		20140210
-DATE AS OF CHANGE:		20140210
+CONFORMED PERIOD OF REPORT:	20170222
+FILED AS OF DATE:		20170224
+DATE AS OF CHANGE:		20170224
 
 ISSUER:		
 
 	COMPANY DATA:	
-		COMPANY CONFORMED NAME:			1 800 FLOWERS COM INC
-		CENTRAL INDEX KEY:			0001084869
-		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
-		IRS NUMBER:				113117311
-		STATE OF INCORPORATION:			DE
-		FISCAL YEAR END:			0627
+		COMPANY CONFORMED NAME:			ASSURED GUARANTY LTD
+		CENTRAL INDEX KEY:			0001273813
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURETY INSURANCE [6351]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
 
 	BUSINESS ADDRESS:	
-		STREET 1:		1600 STEWART AVE
-		CITY:			WESTBURY
-		STATE:			NY
-		ZIP:			11590
-		BUSINESS PHONE:		5162376000
+		STREET 1:		30 WOOD BOURNE AVE
+		CITY:			HAMILTON BERMUDA
+		STATE:			D0
+		ZIP:			0000
+		BUSINESS PHONE:		441-279-5700
 
 	MAIL ADDRESS:	
-		STREET 1:		ONE OLD COUNTRY ROAD
-		STREET 2:		SUITE 500
-		CITY:			CARLE PLACE
-		STATE:			NY
-		ZIP:			11514
+		STREET 1:		30 WOOD BOURNE AVE
+		CITY:			HAMILTON BERMUDA
+		STATE:			D0
+		ZIP:			0000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AGR LTD
+		DATE OF NAME CHANGE:	20040122
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AGC HOLDINGS LTD
+		DATE OF NAME CHANGE:	20031218
 
 REPORTING-OWNER:	
 
 	OWNER DATA:	
-		COMPANY CONFORMED NAME:			Leap Arnold P
-		CENTRAL INDEX KEY:			0001406308
+		COMPANY CONFORMED NAME:			MICHENER JAMES M
+		CENTRAL INDEX KEY:			0001224081
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		FISCAL YEAR END:			1231
 
 	FILING VALUES:
 		FORM TYPE:		4
 		SEC ACT:		1934 Act
-		SEC FILE NUMBER:	000-26841
-		FILM NUMBER:		14588489
+		SEC FILE NUMBER:	001-32141
+		FILM NUMBER:		17637921
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 WOODBOURNE AVENUE
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM08
+		BUSINESS PHONE:		441-279-5702
 
 	MAIL ADDRESS:	
-		STREET 1:		25 HANCOCK COURT
-		CITY:			SOUTH SETAUKET
-		STATE:			NY
-		ZIP:			11720
+		STREET 1:		30 WOODBOURNE AVENUE
+		STREET 2:		5TH FLOOR
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM08
 </SEC-HEADER>
 <DOCUMENT>
 <TYPE>4
 <SEQUENCE>1
-<FILENAME>primary_doc.xml
-<DESCRIPTION>PRIMARY DOCUMENT
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
 <TEXT>
 <XML>
 <?xml version="1.0"?>
@@ -64,46 +81,47 @@ REPORTING-OWNER:
 
     <documentType>4</documentType>
 
-    <periodOfReport>2014-02-03</periodOfReport>
+    <periodOfReport>2017-02-22</periodOfReport>
 
     <notSubjectToSection16>0</notSubjectToSection16>
 
     <issuer>
-        <issuerCik>0001084869</issuerCik>
-        <issuerName>1 800 FLOWERS COM INC</issuerName>
-        <issuerTradingSymbol>FLWS</issuerTradingSymbol>
+        <issuerCik>0001273813</issuerCik>
+        <issuerName>ASSURED GUARANTY LTD</issuerName>
+        <issuerTradingSymbol>AGO</issuerTradingSymbol>
     </issuer>
 
     <reportingOwner>
         <reportingOwnerId>
-            <rptOwnerCik>0001406308</rptOwnerCik>
-            <rptOwnerName>Leap Arnold P</rptOwnerName>
+            <rptOwnerCik>0001224081</rptOwnerCik>
+            <rptOwnerName>MICHENER JAMES M</rptOwnerName>
         </reportingOwnerId>
         <reportingOwnerAddress>
-            <rptOwnerStreet1>ONE OLD COUNTRY ROAD</rptOwnerStreet1>
-            <rptOwnerStreet2>SUITE 500</rptOwnerStreet2>
-            <rptOwnerCity>CARLE PLACE</rptOwnerCity>
-            <rptOwnerState>NY</rptOwnerState>
-            <rptOwnerZipCode>11514</rptOwnerZipCode>
-            <rptOwnerStateDescription></rptOwnerStateDescription>
+            <rptOwnerStreet1>30 WOODBOURNE AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HAMILTON</rptOwnerCity>
+            <rptOwnerState>D0</rptOwnerState>
+            <rptOwnerZipCode>HM08</rptOwnerZipCode>
+            <rptOwnerStateDescription>BERMUDA</rptOwnerStateDescription>
         </reportingOwnerAddress>
         <reportingOwnerRelationship>
             <isDirector>0</isDirector>
             <isOfficer>1</isOfficer>
             <isTenPercentOwner>0</isTenPercentOwner>
             <isOther>0</isOther>
-            <officerTitle>Chief Information Officer</officerTitle>
+            <officerTitle>General Counsel and Secretary</officerTitle>
         </reportingOwnerRelationship>
     </reportingOwner>
 
     <nonDerivativeTable>
         <nonDerivativeTransaction>
             <securityTitle>
-                <value>Class A Common Stock</value>
+                <value>Common Shares</value>
             </securityTitle>
             <transactionDate>
-                <value>2014-02-03</value>
+                <value>2017-02-22</value>
             </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
             <transactionCoding>
                 <transactionFormType>4</transactionFormType>
                 <transactionCode>A</transactionCode>
@@ -114,18 +132,18 @@ REPORTING-OWNER:
             </transactionTimeliness>
             <transactionAmounts>
                 <transactionShares>
-                    <value>10000</value>
+                    <value>12594</value>
                 </transactionShares>
                 <transactionPricePerShare>
-                    <value>0</value>
+                    <footnoteId id="F1"/>
                 </transactionPricePerShare>
                 <transactionAcquiredDisposedCode>
-                    <value>D</value>
+                    <value>A</value>
                 </transactionAcquiredDisposedCode>
             </transactionAmounts>
             <postTransactionAmounts>
                 <sharesOwnedFollowingTransaction>
-                    <value>10000</value>
+                    <value>313613.0005</value>
                 </sharesOwnedFollowingTransaction>
             </postTransactionAmounts>
             <ownershipNature>
@@ -136,9 +154,80 @@ REPORTING-OWNER:
         </nonDerivativeTransaction>
     </nonDerivativeTable>
 
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Share Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2017-02-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12594</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12594</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50779</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted stock units awarded pursuant to the Assured Guaranty Ltd. 2004 Long-Term Incentive Plan (the &quot;Plan&quot;). With limited exceptions, the restricted stock units vest on 2/22/2020, assuming that the holder remains employed at such time.  Upon vesting, one Common Share will be delivered for each vested restricted stock unit.</footnote>
+        <footnote id="F2">Performance share units awarded pursuant to the Plan.  Each performance share unit represents a contingent right to receive one Common Share of the Company. With limited exceptions, the performance share units vest on 2/22/2020, if at all, at the end of the performance period (7/1/2018 to 12/31/2019), assuming that the holder remains employed at such time, based on the Company's Common Share price using the highest 40-day average stock price during the performance period as follows: 200% if the share price reaches $50; 100% if the share price reaches $46; and 50% if the share price reaches $42 (with interpolation between those prices).  If the share price does not reach $42, none of the performance share units will vest.</footnote>
+        <footnote id="F3">To the extent unvested performance share units do not become vested units at the end of the applicable performance period as described above, such unvested performance share units will expire at the end of such performance period. Upon vesting, one Common Share will be delivered for each vested performance share unit.</footnote>
+        <footnote id="F4">Total includes performance units from other tranches with different performance measures, performance periods and vesting dates, but does not include 96,962 outstanding options of various tranches.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
     <ownerSignature>
-        <signatureName>/s/Arnold P. Leap</signatureName>
-        <signatureDate>2014-02-10</signatureDate>
+        <signatureName>/s/ By: Ling Chow, Attorney-in-fact</signatureName>
+        <signatureDate>2017-02-24</signatureDate>
     </ownerSignature>
 </ownershipDocument>
 </XML>
