@@ -3,7 +3,7 @@ Fields used by database tables and parser
 """
 
 ### Database table fields ###
-database = "./ACCT/database.db"
+database = "./ACCT/database2.db"
 
 headTblFields = """accNum text NOT NULL,
 headId text PRIMARY KEY NOT NULL,
@@ -46,6 +46,11 @@ rptOwnerCity text,
 rptOwnerState text,
 rptOwnerZipCode text,
 rptOwnerStateDescription text,
+rptOwnerMailStreet1 text,
+rptOwnerMailStreet2 text,
+rptOwnerMailCity text,
+rptOwnerMailState text,
+rptOwnerMailZip text,
 rptOwnerisDirector integer DEFAULT 0,
 rptOwnerisOfficer integer DEFAULT 0,
 rptOwnerisTenPercentOwner integer DEFAULT 0,
@@ -128,11 +133,11 @@ ownerMap = {"COMPANY CONFORMED NAME": "rptOwnerName",
           "SEC ACT": "rptOwnerSecAct",
           "SEC FILE NUMBER": "rptOwnerSecFileNum",
           "FILM NUMBER": "rptOwnerFilmNum",
-          "STREET 1": "rptOwnerStreet1",
-          "STREET 2": "rptOwnerStreet2",
-          "CITY": "rptOwnerCity",
-          "STATE": "rptOwnerState",
-          "ZIP": "rptOwnerZipCode",
+          "STREET 1": "rptOwnerMailStreet1",
+          "STREET 2": "rptOwnerMailStreet2",
+          "CITY": "rptOwnerMailCity",
+          "STATE": "rptOwnerMailState",
+          "ZIP": "rptOwnerMailZip",
           "BUSINESS PHONE": "rptOwnerBusinessPhone"}
 xml2SqlOwnFields = {"isDirector" : "rptOwnerisDirector",
                  "isOfficer": "rptOwnerisOfficer", 

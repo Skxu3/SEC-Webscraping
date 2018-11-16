@@ -1,27 +1,36 @@
-conn = connectToDb(database)
+import sqlite3
+from urllib import request, error
+from sqlite3 import Error
+from bs4 import BeautifulSoup
+
+from databaseOps import connectToDb, createTable
+from parsing import Parser
+from fields import *
+
+"""
+Create tables
+"""
+
+conn = connectToDb()
 createTable(conn, 'form4Head', headTblFields)
 createTable(conn, 'form4dT', dTTblSql)
 createTable(conn, 'form4nDT', nDTTblSql)
 createTable(conn, 'form4footNote', footNoteTblFields)
 
-#fname = "2007_4A_accNum"
-fname = "2017Form4.csv"
+#fname = "2007_4A_accNum" 
 #fname = "flowers_com_inc2014.txt"
-#fname = "2017Form4a"
+
+fname = "2017Form4.csv" #form 4
+#fname = "2017Form4a" #400 4/a
 
 with open(fname) as f:
     urls = f.read().splitlines()
 
-failed = []
-thisTime = urls[4001:5002]
-#thisTime = urls[1:501] #500 forms 4s
+thisTime = urls[1:2] #500 forms 4s
 for link in thisTime:
-    #link = "0001084869-07-000035"
     links = link.split(",")
-    url = "https://www.sec.gov/Archives/" + links[len(links)-1]
-    #url = "https://www.sec.gov/Archives/" + link + ".txt"
-    #url = "https://www.sec.gov/Archives/edgar/data/1214101/0001104659-07-084171.txt"
-    
+    url = "https://www.sec.gov/Archives/" + links[len(links)-1] #for 4s
+    #url = "https://www.sec.gov/Archives/" + link + ".txt" #for 2014form4a 
     try:
         response = request.urlopen(url)
     except error.HTTPError as err:
@@ -45,5 +54,6 @@ for link in thisTime:
     end = content.find("-----END")
     xmlFile = content[begin:end]
     soup = BeautifulSoup(xmlFile, 'xml')
-    parseHead(soup, accNum)
-    parseTransacs(soup, accNum)
+    parser = Parser(soup, accNum, conn)
+    parser.parseHead()
+    parser.parseTransacs()
