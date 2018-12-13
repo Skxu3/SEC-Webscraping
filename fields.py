@@ -74,6 +74,7 @@ underlyingSecurityTitle text,
 underlyingSecurityShares text,
 sharesOwnedFollowingTransaction text,
 directOrIndirectOwnership text,
+type text,
 footNoteId text,"""
 
 nDTTblFields = """accNum text NOT NULL,
@@ -91,6 +92,7 @@ transactionAcquiredDisposedCode text,
 sharesOwnedFollowingTransaction text,
 directOrIndirectOwnership text,
 natureOfOwnership text,
+type text,
 footNoteId text,"""
 
 footNoteTblFields = """accNum text NOT NULL,
@@ -159,3 +161,5 @@ def getNDTFields():
     return getFields(nDTTblFields)
 def getFootFields():
     return getFields(footNoteTblFields)
+def filterFields(fields, dropFields):
+    return [field for field in fields if field not in dropFields and field != '']
