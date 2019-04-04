@@ -5,9 +5,10 @@ from fields import *
 Parser class
 """
 class Parser:
-    def __init__(self, soup, accNum, conn):
+    def __init__(self, soup, accNum, documentType, conn):
         self.soup = soup
         self.accNum = accNum
+        self.documentType = documentType
         self.conn = conn
 
     def parseSecHeader(self, lines, sqlMap, sqlDic):
@@ -50,13 +51,21 @@ class Parser:
             xmlFields.append(fieldParts[0])
 
         sqlDic = {}
-        if transactionType == 'derivativeTransaction':
+        
+        if transactionType == 'derivativeTransaction' or transactionType == 'derivativeHolding':
             footNoteTag = 'dt'
         else:
             footNoteTag = 'ndt'
+            
+        if transactionType == 'derivativeTransaction' or transactionType == 'nonDerivativeTransaction':
+            entryType = 'transaction'
+        else:
+            entryType = 'holding'
+
         for row in range(len(transactionsList)):
             sqlDic[row+1] = {}
             sqlDic[row+1]['footnotes'] = []
+            
             for field in xmlFields:
                 if field == 'accNum':
                     val = self.accNum
@@ -64,8 +73,14 @@ class Parser:
                     val = row+1
                 elif field == 'dTId' or field == 'nDTId':
                     val = self.accNum+'-'+str(row+1)
+                    if entryType == 'holding':
+                        val += '-h'
                 elif field == 'footNoteId':
                     continue
+                elif field == 'type':
+                    val = entryType
+                elif field == 'documentType':
+                    val = self.documentType
                 elif field == 'transactionTimelines':
                     field = 'transactionTimeliness'
                 else:
@@ -76,10 +91,12 @@ class Parser:
                             if x and isinstance(x, Tag):
                                 fId = x.get('id')
                                 if fId is not None:
+                                    footNoteId = self.accNum+'-'+ str(row+1)+'-'+footNoteTag + '-' + fId + '-' + field
+                                    if entryType == 'holding':
+                                        footNoteId += '-h'
                                     foot = {'accNum': self.accNum,
                                            'rowNumber': row+1,
-                                           'footNoteId': self.accNum+'-'+ str(row+1)+'-'
-                                            +footNoteTag + '-' + fId + '-' + field,
+                                           'footNoteId': footNoteId,
                                            'fId': fId,
                                            'originalTableType': transactionType,
                                            'footNoteField': field
@@ -90,6 +107,7 @@ class Parser:
                 if field == 'transactionTimeliness':
                     field = 'transactionTimelines'
                 sqlDic[row+1][field] = val
+
         return sqlDic
 
     def fillFootNoteText(self, footnotes):
@@ -158,7 +176,15 @@ class Parser:
         sql = self.parseXml(dTTblFields, derivativeTransactions, 'derivativeTransaction')
         self.insertToTransacTables(sql, 'form4dT')
 
+        derivativeHoldings = self.soup.find_all("derivativeHolding")
+        sql = self.parseXml(dTTblFields, derivativeHoldings, 'derivativeHolding')
+        self.insertToTransacTables(sql, 'form4dT')
+
         # Process non-derivative transactions
         nonDerivativeTransactions = self.soup.find_all("nonDerivativeTransaction")
         sqlNT = self.parseXml(nDTTblFields, nonDerivativeTransactions, 'nonDerivativeTransaction')
+        self.insertToTransacTables(sqlNT, 'form4nDT')
+
+        nonDerivativeHoldings = self.soup.find_all("nonDerivativeHolding")
+        sqlNT = self.parseXml(nDTTblFields, nonDerivativeHoldings, 'nonDerivativeHolding')
         self.insertToTransacTables(sqlNT, 'form4nDT')

@@ -3,7 +3,7 @@ Fields used by database tables and parser
 """
 
 ### Database table fields ###
-database = "./ACCT/database2.db"
+database = "./ACCT/database3.db"
 
 headTblFields = """accNum text NOT NULL,
 headId text PRIMARY KEY NOT NULL,
@@ -75,6 +75,7 @@ underlyingSecurityShares text,
 sharesOwnedFollowingTransaction text,
 directOrIndirectOwnership text,
 type text,
+documentType text,
 footNoteId text,"""
 
 nDTTblFields = """accNum text NOT NULL,
@@ -93,6 +94,7 @@ sharesOwnedFollowingTransaction text,
 directOrIndirectOwnership text,
 natureOfOwnership text,
 type text,
+documentType text,
 footNoteId text,"""
 
 footNoteTblFields = """accNum text NOT NULL,
@@ -100,6 +102,7 @@ rowNumber integer DEFAULT 1,
 footNoteId text PRIMARY KEY NOT NULL,
 fId text,
 originalTableType text,
+documentType text,
 footNoteField text,
 footNote text"""
 
