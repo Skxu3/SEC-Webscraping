@@ -33,3 +33,12 @@ def insertToTable(table, dictionary, conn):
         conn.close()
         return
     conn.commit()
+
+# return all rows with accNum in table in dictionary form (keys = table field)
+def getRows(cursor, accNum, table, transactionType=None):
+    if transactionType is not None:
+        cursor.execute("select * from "+ table +" where accNum = '" + accNum + "' and type = '" + transactionType + "';")
+    else:
+        cursor.execute("select * from "+ table +" where accNum = '" + accNum + "';")
+    rows = [dict(zip([col[0] for col in cursor.description], row)) for row in cursor.fetchall()]
+    return rows
