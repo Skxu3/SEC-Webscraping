@@ -1,0 +1,90 @@
+changeDictionary
+{
+    "accNum of 4a": {
+        "dt": {
+            "1-transaction/holding": {
+                "fieldName": {
+                    "4A": {
+                        "value": "xxx"
+                    }, 
+                    "4": {
+                        "value": "xxx",
+                        "footnote id": "footnote"
+                    }
+                }
+            }
+        },
+        "ndt": {}, 
+        "head": {}
+    }
+}
+
+analysisDictionary: added metadata to changeDictionary
+"fieldName": {
+    "4A": {
+        "value": "xxx",
+        "footnote id": "footnote"
+    }, 
+    "4": {
+        "value": "xxx",
+        "footnote id": "footnote"
+    },
+    "analysis": {...}
+}
+
+- categorical analysis:
+"analysis": { 
+    "fieldName": "xxx"
+    "dataType": "categorical"
+    
+    "changeType": "update" #if field in both 4 & 4/a are not null
+                : ["update", "footnote xxx"] #if there's footnote in value 
+                : "insert" #4 is null, 4/a is not
+                : "delete" #4/a is null, 4 is not
+                : "footnote xxx" #only change was footnote change
+    
+    "updateVector": (beforeVal, afterVal) #if field is a typedCategorical data
+    "editDistance": x #if field is not typedCategorical data
+}
+    
+- numerical analysis:
+"analysis": { 
+    "fieldName": "xxx"
+    "dataType": "numerical"
+    
+    "changeType": "update" # if there is a numerical change (!= 0) in the value
+                : ["update", "footnote xxx"] #if there's footnote in value
+                : "insert" #4 is null, 4/a is not -> 4 default to 0
+                : "delete" #4/a is null, 4 is not -> 4/a default to 0
+                : "footnote xxx" #only change was footnote change
+  
+    "amountChanged": afterVal - beforeVal #only if amountChanged != 0
+    "changeDirection": "+" # if afterVal > beforeVal
+                     : "-" # if afterVal < beforeVal
+    "percentChange": round(abs(afterVal - beforeVal)/beforeVal)*100 
+}
+    
+- date analysis:
+"analysis": { 
+    "fieldName": "xxx"
+    "dataType": "date"
+    
+    "changeType": "insert" #4 is null, 4/a is not -> 4 default to 0
+                : "delete" #4/a is null, 4 is not -> 4/a default to 0
+                : "footnote xxx" #only change was footnote change
+                : "update" # if 4!=4/a
+  
+    "amountChanged": ... #number of days
+    "changeDirection": "-" #4/a is earlier than 4
+                     : "+" #4/a is later than 4
+}
+ 
+- footnote analysis, if there's footnote in value
+"analysis": { 
+    "changeType": [..., "footnote in 4"] #footnote only in 4
+                : [..., "footnote in 4/a"] #footnote only in 4/a
+                : [..., "footnote content diff"] #footnote content are different
+                : [..., "footnote id diff"] #footnote content same, id are different
+                : "footnote xxx" #only change was footnote change
+    ...
+}
