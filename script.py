@@ -35,7 +35,7 @@ for link in thisTime:
     
     the_page = response.read()
     content = the_page.decode(encoding='latin-1')
-    # file = open("test", "w")
+    # file = open("test", "w") #"test" = url to where you want to save file
     # file.write(content) 
 
     parts = links.split("/")

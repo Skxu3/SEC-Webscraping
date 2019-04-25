@@ -1,5 +1,5 @@
 """
-Fields used by database tables and parser
+Fields/constants 
 """
 
 ### Database table fields ###
@@ -166,3 +166,36 @@ def getFootFields():
     return getFields(footNoteTblFields)
 def filterFields(fields, dropFields):
     return [field for field in fields if field not in dropFields and field != '']
+
+### Analyze fields ###
+
+## Run analysis fields ##
+numerical = ["transactionShares", "transactionPricePerShare", "sharesOwnedFollowingTransaction", "conversionOrExercisePrice", "underlyingSecurityShares"]
+categorical = ["securityTitle", "transactionCode", "equitySwapInvolved", "transactionAcquiredDisposedCode", "directOrIndirectOwnership", "natureOfOwnership", "transactionTimelines", "underlyingSecurityTitlesecurityTitle"]
+# categorical data w specified categories
+typedCategorical = ["transactionCode", "equitySwapInvolved", "transactionAcquiredDisposedCode", "directOrIndirectOwnership", "transactionTimelines"]
+date = ["transactionDate", "exerciseDate", "expirationDate"]
+formPortion = ["head", "dt", "ndt"]
+
+## Get analysis fields ##
+dataType = ["categorical", "numerical", "footnote", "date"]
+categoricalAnalysisType = {
+    "changeDirection": ["+", "-"],
+    "changeType": ["update", "insert", "delete", "footnote in 4", "footnote in 4/a", "footnote content diff", "footnote id diff"]
+}
+numericalAnalysisType = ["amountChanged", "percentChange"]
+changeTypeVect = {
+    "update": 1,
+    "insert": 2,
+    "delete": 3,
+    "footnote in 4": 30,
+    "footnote in 4/a": 40,
+    "footnote content diff": 50,
+    "footnote id diff": 60,
+}
+dataTypeVect = {
+    "numerical": 0,
+    "categorical": 1,
+    "date": 2,
+    "footnote" : 3
+}

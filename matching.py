@@ -5,6 +5,10 @@ from bs4 import BeautifulSoup, Tag
 from fields import getHeadFields, getDTFields, getNDTFields, getFootFields, filterFields
 from utility import *
 
+"""
+Functions used to match Form 4 and Form 4/A.
+"""
+
 conn = databaseOps.connectToDb()
 cur = conn.cursor()
 
@@ -87,7 +91,7 @@ def getOptMatches(probDist):
         cons = [(var, 1) for var in lstVars[j]]
         lp += pulp.LpAffineExpression(cons) <= 1 #constraints
     lp.solve()
-    # for variable in lp.variables():
+    # for variable in lp.variables(): # if want to see weights
     #     print("{} = {}".format(variable.name, variable.varValue))
     
     chosenVars = [(var.name, varWeightMap[var.name]) for var in lp.variables() if var.varValue == 1]
@@ -100,8 +104,6 @@ def getOptMatches(probDist):
             allMatches.append((fourAIDs[int(chosenName[0])], fourIDs[int(chosenName[1])]))
         else:
             unmatched.append(fourAIDs[int(chosenName[0])])
-#     print('allMatches', allMatches)
-#     print('unmatched', unmatched)
     return allMatches, unmatched
     
 # Used to create changeDictionary: get the fields that was changed 
@@ -270,8 +272,6 @@ def get4ATo4Changes(fourAs):
                     else:
                         probDist = getMatchProbDist(aTransac, bTransac, identifier) #4/a, 4
                         optMatches, unmatched = getOptMatches(probDist) #get matches
-
-                        #print(optMatches)
 
                         if len(optMatches) < 1:
                             print("No clear match for ", fourAs[idxx])

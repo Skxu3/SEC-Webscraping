@@ -167,7 +167,6 @@ class Parser:
             sqlDic['rowNumber'] = index+1 
             sqlDic['accNum'] = self.accNum
             sqlDic['headId'] = self.accNum + "-" + str(index+1)
-            #print(sqlDic['headId'])
             insertToTable('form4head', sqlDic, self.conn)
 
     def parseTransacs(self):
