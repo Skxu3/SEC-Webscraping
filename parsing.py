@@ -40,7 +40,7 @@ class Parser:
                 key = xml2SqlMap[field]
 
             vals = self.soup.find_all(field)
-            if vals:
+            if vals and len(vals) > index:
                 sqlDics[key] = vals[index].getText()
 
     def parseXml(self, xmlFieldList, transactionsList, transactionType):

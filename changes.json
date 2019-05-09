@@ -1,0 +1,2309 @@
+{
+  "1513197/000120919117011662/0001209191-17-011662": {
+    "dt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>771.74</value>"
+          },
+          "4": {
+            "value": "<value>343</value>"
+          }
+        },
+        "underlyingSecurityShares": {
+          "4A": {
+            "value": "<value>771.74</value>"
+          },
+          "4": {
+            "value": "<value>343</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>771.74</value>"
+          },
+          "4": {
+            "value": "<value>343</value>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {},
+    "accNum": "1513197/0001209191-17-006953"
+  },
+  "66740/000112760217007803/0001127602-17-007803": {
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "4": {
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017).",
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>41937.7782</value>"
+          },
+          "4": {
+            "value": "<value>33579</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>37890.7782</value>"
+          },
+          "4": {
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan.",
+            "value": "<value>33579</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes.",
+            "value": "<value>4047</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>1103</value>"
+          },
+          "4": {
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan.",
+            "value": "<value>1103</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004746"
+  },
+  "4977/000000497717000082/0000004977-17-000082": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "The Form 4 filed on 2/14/2017 overstated the direct ownership by 2,825 shares. This amendment is to correctly state the number of shares held directly.",
+            "value": "<value>14985</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>17810</value>"
+          }
+        }
+      }
+    },
+    "accNum": "4977/0000004977-17-000028"
+  },
+  "66740/000112760217007812/0001127602-17-007812": {
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "4": {
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017).",
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>10816.0412</value>"
+          },
+          "4": {
+            "value": "<value>6657</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>4158.318</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>4158.318</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>8788.0412</value>"
+          },
+          "4": {
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan.",
+            "value": "<value>6657</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes.",
+            "value": "<value>2028</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>2040</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004754"
+  },
+  "1438731/000094787117000047/0000947871-17-000047": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>4898751</value>"
+          },
+          "4": {
+            "value": "<value>4998751</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1438731/0000947871-17-000039"
+  },
+  "66740/000112760217004862/0001127602-17-004862": {
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "4": {
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017).",
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1.",
+            "value": "<value>4249</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>2586</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>1662.332</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>1662.332</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1.",
+            "value": "<value>3413</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan.",
+            "value": "<value>2586</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>836</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>836</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004760"
+  },
+  "1220630/000117911017003098/0001179110-17-003098": {
+    "dt": {},
+    "head": {},
+    "ndt": {},
+    "accNum": "1220630/0001179110-17-003045"
+  },
+  "2488/000000248817000078/0000002488-17-000078": {
+    "dt": {
+      "1-transaction": {
+        "underlyingSecurityShares": {
+          "4A": {
+            "F2": "This amendment is to correct an inadvertent error in the number of shares disposed of from the January 15, 2017 vesting of the January 22, 2015 RSU award.",
+            "value": "<value>107843.0</value><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "value": "<value>0.0</value>"
+          }
+        },
+        "expirationDate": {
+          "4A": {
+            "F3": "This award vested 33% on January 15, 2017 then remaining shares vest 67% on January 15, 2018.",
+            "value": "<footnoteId id=\"F3\"/>"
+          },
+          "4": {
+            "F4": "This award vests 33% on January 15, 2017 then vests 67% on January 15, 2018.",
+            "value": "<footnoteId id=\"F4\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F2": "This amendment is to correct an inadvertent error in the number of shares disposed of from the January 15, 2017 vesting of the January 22, 2015 RSU award.",
+            "value": "<value>107843</value><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "value": "<value>0</value>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F4": "This amendment is to correct an inadvertent error in the number of shares beneficially owned after  the January 15, 2017 vesting of the January 22, 2015 RSU award.",
+            "value": "<value>218954</value><footnoteId id=\"F4\"/>"
+          },
+          "4": {
+            "value": "<value>326797</value>"
+          }
+        },
+        "exerciseDate": {
+          "4A": {
+            "F3": "This award vested 33% on January 15, 2017 then remaining shares vest 67% on January 15, 2018.",
+            "value": "<footnoteId id=\"F3\"/>"
+          },
+          "4": {
+            "F4": "This award vests 33% on January 15, 2017 then vests 67% on January 15, 2018.",
+            "value": "<footnoteId id=\"F4\"/>"
+          }
+        },
+        "conversionOrExercisePrice": {
+          "4A": {
+            "F1": "Each restricted stock unit (RSU) represents a contingent right to receive one share of common stock.",
+            "value": "<footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F3": "Each restricted stock unit represents a contingent right to receive one share of common stock.",
+            "value": "<footnoteId id=\"F3\"/>"
+          }
+        },
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Restricted Stock Units</value>"
+          },
+          "4": {
+            "value": "<value>RSU Award</value>"
+          }
+        },
+        "transactionAcquiredDisposedCode": {
+          "4A": {
+            "value": "<value>D</value>"
+          },
+          "4": {
+            "value": "<value>A</value>"
+          }
+        },
+        "transactionCode": {
+          "4A": {
+            "value": "M"
+          },
+          "4": {
+            "value": "A"
+          }
+        }
+      }
+    },
+    "head": {
+      "1": {
+        "rptOwnerStreet1": {
+          "4A": {
+            "value": ""
+          },
+          "4": {
+            "value": "ADVANCED MICRO DEVICES, INC."
+          }
+        }
+      }
+    },
+    "ndt": {},
+    "accNum": "2488/0000002488-17-000010"
+  },
+  "2230/000000223017000006/0000002230-17-000006": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "value": "<value>0</value>"
+          },
+          "4": {
+            "value": "<value>12.95</value>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "This amendment to Form 4 is being filed to correct an inadvertent disclosure on the original filing that was made this date.  The original filing reported the surrender of 3,307 shares by the undersigned to satisfy withholding taxes on shares that vested on January 9, 2017.  No such surrender of shares was made and such withholding taxes are being paid in cash by the undersigned.",
+            "value": "<value>23089.745</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>20052.745</value>"
+          }
+        },
+        "transactionAcquiredDisposedCode": {
+          "4A": {
+            "value": "<value>A</value>"
+          },
+          "4": {
+            "value": "<value>D</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>0</value>"
+          },
+          "4": {
+            "value": "<value>3037</value>"
+          }
+        },
+        "transactionCode": {
+          "4A": {
+            "value": "J"
+          },
+          "4": {
+            "value": "F"
+          }
+        }
+      }
+    },
+    "accNum": "2230/0000002230-17-000004"
+  },
+  "1513965/000151396517000108/0001513965-17-000108": {
+    "dt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F4": "The original Form 4 reported an incorrect number of phantom units beneficially owned following the reported transactions.  This amendment to the Form 4 is filed solely to reflect the correct number of phantom units.",
+            "value": "<value>48416</value><footnoteId id=\"F4\"/>"
+          },
+          "4": {
+            "value": "<value>96832</value>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F4": "The original Form 4 reported an incorrect number of phantom units beneficially owned following the reported transactions.  This amendment to the Form 4 is filed solely to reflect the correct number of phantom units.",
+            "value": "<value>36312</value><footnoteId id=\"F4\"/>"
+          },
+          "4": {
+            "value": "<value>84728</value>"
+          }
+        }
+      }
+    },
+    "head": {
+      "1": {
+        "issuerBusinessStreet1": {
+          "4A": {},
+          "4": {
+            "value": "2103 CITY WEST BLVD., BLDG 4"
+          }
+        },
+        "issuerMailCity": {
+          "4A": {},
+          "4": {
+            "value": "HOUSTON"
+          }
+        },
+        "rptOwnerMailState": {
+          "4A": {
+            "value": "TX"
+          },
+          "4": {
+            "value": "CO"
+          }
+        },
+        "issuerBusinessState": {
+          "4A": {},
+          "4": {
+            "value": "TX"
+          }
+        },
+        "rptOwnerMailZip": {
+          "4A": {
+            "value": "77042"
+          },
+          "4": {
+            "value": "80202"
+          }
+        },
+        "issuerIncorpState": {
+          "4A": {},
+          "4": {
+            "value": "DE"
+          }
+        },
+        "issuerMailZip": {
+          "4A": {},
+          "4": {
+            "value": "77042"
+          }
+        },
+        "publicDocCount": {
+          "4A": {
+            "value": 2
+          },
+          "4": {
+            "value": 1
+          }
+        },
+        "rptOwnerBusinessPhone": {
+          "4A": {
+            "value": "(713) 815-3900"
+          },
+          "4": {}
+        },
+        "issuerMailStreet2": {
+          "4A": {},
+          "4": {
+            "value": "SUITE 800"
+          }
+        },
+        "rptOwnerMailStreet2": {
+          "4A": {
+            "value": "SUITE 800"
+          },
+          "4": {
+            "value": "SUITE 300"
+          }
+        },
+        "issuerFiscalYrEnd": {
+          "4A": {},
+          "4": {
+            "value": "1231"
+          }
+        },
+        "rptOwnerMailStreet1": {
+          "4A": {
+            "value": "2103 CITY WEST BLVD., BLDG 4"
+          },
+          "4": {
+            "value": "1614 15TH STREET"
+          }
+        },
+        "issuerBusinessZip": {
+          "4A": {},
+          "4": {
+            "value": "77042"
+          }
+        },
+        "rptOwnerMailCity": {
+          "4A": {
+            "value": "HOUSTON"
+          },
+          "4": {
+            "value": "DENVER"
+          }
+        },
+        "issuerBusinessCity": {
+          "4A": {},
+          "4": {
+            "value": "HOUSTON"
+          }
+        },
+        "issuerBusinessPhone": {
+          "4A": {},
+          "4": {
+            "value": "(713) 815-3900"
+          }
+        },
+        "issuerMailStreet1": {
+          "4A": {},
+          "4": {
+            "value": "2103 CITY WEST BLVD., BLDG 4"
+          }
+        },
+        "issuerMailState": {
+          "4A": {},
+          "4": {
+            "value": "TX"
+          }
+        },
+        "issuerIndustrialClassification": {
+          "4A": {},
+          "4": {
+            "value": "NATURAL GAS TRANSMISSION [4922]"
+          }
+        },
+        "issuerIrs": {
+          "4A": {},
+          "4": {
+            "value": "270855785"
+          }
+        }
+      }
+    },
+    "ndt": {},
+    "accNum": "1513965/0001513965-17-000027"
+  },
+  "1305168/000089924317006824/0000899243-17-006824": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>595772</value>"
+          },
+          "4": {
+            "value": "<value>2520664</value>"
+          }
+        },
+        "natureOfOwnership": {
+          "4A": {},
+          "4": {
+            "F2": "Shares are held by The Suriyakumar Revocable Family Trust dated March 20, 1999, Kumarakulasingam Suriyakumar and Rushika A. Suriyakumar as Trustees.",
+            "value": "<value>By Suriyakumar Family Trust</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "directOrIndirectOwnership": {
+          "4A": {
+            "value": "<value>D</value>"
+          },
+          "4": {
+            "value": "<value>I</value>"
+          }
+        },
+        "transactionAcquiredDisposedCode": {
+          "4A": {
+            "F2": "This Form 4 is being amended to show that the Stock Award granted to Mr. Kumarakulasingam on February 16, 2017 was on acquisition not a disposition.",
+            "value": "<value>A</value><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "value": "<value>D</value>"
+          }
+        }
+      },
+      "3-holding": {
+        "natureOfOwnership": {
+          "4A": {
+            "F5": "Shares are held by the Seiyonne Suriyakumar 2013 Irrevocable Trust, Seiyonne Suriyakumar, as Trustee.",
+            "value": "<value>Seiyonne Suriyakumar 2013 Irrevocable Trust</value><footnoteId id=\"F5\"/>"
+          },
+          "4": {
+            "F4": "Shares are held by the Seiyonne Suriyakumar 2013 Irrevocable Trust, Seiyonne Suriyakumar, as Trustee.",
+            "value": "<value>Seiyonne Suriyakumar 2013 Irrevocable Trust</value><footnoteId id=\"F4\"/>"
+          }
+        }
+      },
+      "2-holding": {
+        "natureOfOwnership": {
+          "4A": {
+            "F4": "Shares are held by the Shiyulli Suriyakumar 2013 Irrevocable Trust, Shiyulli Suriyakumar, as Trustee.",
+            "value": "<value>Shiyulli Suriyakumar 2013 Irrevocable Trust</value><footnoteId id=\"F4\"/>"
+          },
+          "4": {
+            "F3": "Shares are held by the Shiyulli Suriyakumar 2013 Irrevocable Trust, Shiyulli Suriyakumar, as Trustee.",
+            "value": "<value>Shiyulli Suriyakumar 2013 Irrevocable Trust</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>2520664</value>"
+          },
+          "4": {
+            "value": "<value>595772</value>"
+          }
+        },
+        "natureOfOwnership": {
+          "4A": {
+            "F3": "Shares are held by The Suriyakumar Revocable Family Trust dated March 20, 1999, Kumarakulasingam Suriyakumar and Rushika A. Suriyakumar as Trustees.",
+            "value": "<value>By Suriyakumar Family Trust</value><footnoteId id=\"F3\"/>"
+          },
+          "4": {}
+        },
+        "directOrIndirectOwnership": {
+          "4A": {
+            "value": "<value>I</value>"
+          },
+          "4": {
+            "value": "<value>D</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1305168/0000899243-17-004732"
+  },
+  "1365916/000136591617000015/0001365916-17-000015": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "Due to an unintentional error, shares beneficially owned by the Reporting Person were omitted from the original Form 4 filed on January 19, 2017.",
+            "value": "<value>181955</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>167000</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>167000</value>"
+          },
+          "4": {
+            "F1": "Represents a restricted stock unit award that vests in three (3) equal annual installments, with the first 1/3rd of the units vesting on January 1, 2018.",
+            "value": "<value>167000</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "1365916/0001365916-17-000005"
+  },
+  "1344980/000117911017003299/0001179110-17-003299": {
+    "dt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>19626</value>"
+          },
+          "4": {
+            "value": "<value>19702</value>"
+          }
+        },
+        "underlyingSecurityShares": {
+          "4A": {
+            "value": "<value>353</value>"
+          },
+          "4": {
+            "value": "<value>429</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>353</value>"
+          },
+          "4": {
+            "value": "<value>429</value>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {},
+    "accNum": "1344980/0001179110-17-002862"
+  },
+  "1651089/000114036117044491/0001140361-17-044491": {
+    "dt": {},
+    "head": {
+      "1": {
+        "issuerBusinessStreet1": {
+          "4A": {},
+          "4": {
+            "value": "10910 DOMAIN DRIVE"
+          }
+        },
+        "issuerMailCity": {
+          "4A": {},
+          "4": {
+            "value": "AUSTIN"
+          }
+        },
+        "issuerBusinessState": {
+          "4A": {},
+          "4": {
+            "value": "TX"
+          }
+        },
+        "issuerIncorpState": {
+          "4A": {},
+          "4": {
+            "value": "DE"
+          }
+        },
+        "issuerMailZip": {
+          "4A": {},
+          "4": {
+            "value": "78758"
+          }
+        },
+        "issuerMailStreet2": {
+          "4A": {},
+          "4": {
+            "value": "SUITE 300"
+          }
+        },
+        "rptOwnerBusinessPhone": {
+          "4A": {
+            "value": "512-777-3800"
+          },
+          "4": {}
+        },
+        "rptOwnerMailStreet2": {
+          "4A": {
+            "value": "SUITE 300"
+          },
+          "4": {}
+        },
+        "issuerFiscalYrEnd": {
+          "4A": {},
+          "4": {
+            "value": "1231"
+          }
+        },
+        "rptOwnerMailStreet1": {
+          "4A": {
+            "value": "10910 DOMAIN DRIVE"
+          },
+          "4": {
+            "value": "10910 DOMAIN DRIVE, SUITE 300"
+          }
+        },
+        "issuerBusinessZip": {
+          "4A": {},
+          "4": {
+            "value": "78758"
+          }
+        },
+        "issuerBusinessCity": {
+          "4A": {},
+          "4": {
+            "value": "AUSTIN"
+          }
+        },
+        "issuerBusinessPhone": {
+          "4A": {},
+          "4": {
+            "value": "512-777-3800"
+          }
+        },
+        "issuerMailStreet1": {
+          "4A": {},
+          "4": {
+            "value": "10910 DOMAIN DRIVE"
+          }
+        },
+        "issuerMailState": {
+          "4A": {},
+          "4": {
+            "value": "TX"
+          }
+        },
+        "issuerIndustrialClassification": {
+          "4A": {},
+          "4": {
+            "value": "SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC [8093]"
+          }
+        },
+        "issuerIrs": {
+          "4A": {},
+          "4": {
+            "value": "840904275"
+          }
+        }
+      }
+    },
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F4": "(vi) unvested restricted shares and fully vested shares which total 4,239 shares of stock from an initial grant of 4,239 shares of restricted stock made on March 6, 2015.  Except as otherwise noted, all remaining unvested restricted shares will continue to vest at a rate of 25% per year of the original grant amount on the anniversary date of the grant.",
+            "F3": "Includes (i) unvested restricted shares which total 7,950 shares of stock from an initial grant of 7,950 shares of restricted stock that begins to vest on March 8, 2018, (ii) unvested restricted shares which total 3,000 shares of stock from an initial grant of 3,000 shares of restricted stock that begins to vest on October 11, 2017, (iii) unvested restricted shares and fully vested shares which total 7,750 shares of stock from an initial grant of 7,750 shares of restricted stock that begins to vest on March 7, 2017, (iv) unvested restricted shares and fully vested shares which total 3,305 shares of stock from an initial grant of 3,305 shares of restricted stock made on November 10, 2015, (v) unvested restricted shares and fully vested shares which total 2,229 shares of stock from an initial grant of 2,229 shares of restricted stock made on September 8, 2015 and [continued in next footnote]",
+            "value": "<value>28473</value><footnoteId id=\"F3\"/><footnoteId id=\"F4\"/>"
+          },
+          "4": {
+            "F2": "Includes (i) unvested restricted shares which total 7,750 shares of stock from an initial grant of 7,750 shares of restricted stock that begins to vest on March 8, 2018, (ii) unvested restricted shares which total 3,000 shares of stock from an initial grant of 3,000 shares of restricted stock that begins to vest on October 11, 2017, (iii) unvested restricted shares and fully vested shares which total 7,750 shares of stock from an initial grant of 7,750 shares of restricted stock that begins to vest on March 7, 2017, (iv) unvested restricted shares and fully vested shares which total 3,305 shares of stock from an initial grant of 3,305 shares of restricted stock made on November 10, 2015, (v) unvested restricted shares and fully vested shares which total 2,229 shares of stock from an initial grant of 2,229 shares of restricted stock made on September 8, 2015 and [continued in next footnote]",
+            "F3": "(vi) unvested restricted shares and fully vested shares which total 4,239 shares of stock from an initial grant of 4,239 shares of restricted stock made on March 6, 2015.  Except as otherwise noted, all remaining unvested restricted shares will continue to vest at a rate of 25% per year of the original grant amount on the anniversary date of the grant.",
+            "value": "<value>28273</value><footnoteId id=\"F2\"/><footnoteId id=\"F3\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F2": "Represents a grant of time-based restricted stock under the Company's 2016 Omnibus Incentive Plan, which vests to the extent of 25% annually beginning on March 8, 2018 and cumulatively vests to the extent of 25% each year thereafter.",
+            "F1": "The Form 4 filed on March 9, 2017 reported that the reporting person received 7,750 shares.  The reporting person actually received 7,950 shares in this transaction.",
+            "value": "<value>7950</value><footnoteId id=\"F2\"/><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "Represents a grant of time-based restricted stock under the Company's 2016 Omnibus Incentive Plan, which vests to the extent of 25% annually beginning on March 8, 2018 and cumulatively vests to the extent of 25% each year thereafter.",
+            "value": "<value>7750</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "1651089/0001140361-17-011278"
+  },
+  "887546/000095011717000076/0000950117-17-000076": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "This amended Form 4 is being submitted because the original Form 4 filed on February 2, 2017 contained an incorrect amount of securities of the Issuer beneficially owned by this reporting person.",
+            "value": "<value>5269</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>4785</value>"
+          }
+        }
+      }
+    },
+    "accNum": "887546/0000950117-17-000072"
+  },
+  "8328/000143774917002215/0001437749-17-002215": {
+    "dt": {},
+    "head": {
+      "1": {
+        "periodOfReport": {
+          "4A": {
+            "value": "2017-02-13"
+          },
+          "4": {
+            "value": "2017-02-08"
+          }
+        }
+      }
+    },
+    "ndt": {
+      "1-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "value": "<value>0</value>"
+          },
+          "4": {
+            "value": "<value>0.11</value>"
+          }
+        },
+        "transactionDate": {
+          "4A": {
+            "value": "<value>2017-02-10</value>"
+          },
+          "4": {
+            "value": "<value>2017-02-08</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>0</value>"
+          },
+          "4": {
+            "value": "<value>149500</value>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>804176</value>"
+          },
+          "4": {
+            "value": "<value>1099332</value>"
+          }
+        }
+      }
+    },
+    "accNum": "8328/0001437749-17-002098"
+  },
+  "1652044/000120919117007350/0001209191-17-007350": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "2-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F2": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $802.00 to $802.99, inclusive.",
+            "value": "<value>802.4054</value><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "F14": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $802.00 to $802.99, inclusive.",
+            "value": "<value>802.4054</value><footnoteId id=\"F14\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20115011</value>"
+          },
+          "4": {
+            "value": "<value>20598347</value>"
+          }
+        }
+      },
+      "8-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F8": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $807.27 to $808.26, inclusive.",
+            "value": "<value>807.4667</value><footnoteId id=\"F8\"/>"
+          },
+          "4": {
+            "F20": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $807.27 to $808.26, inclusive.",
+            "value": "<value>807.4667</value><footnoteId id=\"F20\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20105946</value>"
+          },
+          "4": {
+            "value": "<value>20589282</value>"
+          }
+        }
+      },
+      "3-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F3": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $799.96 to $800.95, inclusive.",
+            "value": "<value>800.4521</value><footnoteId id=\"F3\"/>"
+          },
+          "4": {
+            "F15": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $799.96 to $800.95, inclusive.",
+            "value": "<value>800.4521</value><footnoteId id=\"F15\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20114519</value>"
+          },
+          "4": {
+            "value": "<value>20597855</value>"
+          }
+        }
+      },
+      "11-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F11": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $813.33 to $814.32, inclusive.",
+            "value": "<value>813.33</value><footnoteId id=\"F11\"/>"
+          },
+          "4": {
+            "F23": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $813.33 to $814.32, inclusive.",
+            "value": "<value>813.33</value><footnoteId id=\"F23\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20105487</value>"
+          },
+          "4": {
+            "value": "<value>20588823</value>"
+          }
+        }
+      },
+      "12-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F12": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $814.65 to $815.64, inclusive.",
+            "value": "<value>814.6598</value><footnoteId id=\"F12\"/>"
+          },
+          "4": {
+            "F24": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $814.65 to $815.64, inclusive.",
+            "value": "<value>814.6598</value><footnoteId id=\"F24\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20105282</value>"
+          },
+          "4": {
+            "value": "<value>20588618</value>"
+          }
+        }
+      },
+      "1-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F1": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $800.96 to $801.95, inclusive.  The Reporting Person undertakes to provide to any security holder of Alphabet Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnotes (1) through (12) to this Form 4.",
+            "value": "<value>801.4411</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F13": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $800.96 to $801.95, inclusive.",
+            "value": "<value>801.4411</value><footnoteId id=\"F13\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20119173</value>"
+          },
+          "4": {
+            "value": "<value>20602509</value>"
+          }
+        }
+      },
+      "4-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F4": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $803.00 to $803.99, inclusive.",
+            "value": "<value>803.4588</value><footnoteId id=\"F4\"/>"
+          },
+          "4": {
+            "F16": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $803.00 to $803.99, inclusive.",
+            "value": "<value>803.4588</value><footnoteId id=\"F16\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20112577</value>"
+          },
+          "4": {
+            "value": "<value>20595913</value>"
+          }
+        }
+      },
+      "10-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F10": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $810.95 to $811.94, inclusive.",
+            "value": "<value>811.18</value><footnoteId id=\"F10\"/>"
+          },
+          "4": {
+            "F22": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $810.95 to $811.94, inclusive.",
+            "value": "<value>811.18</value><footnoteId id=\"F22\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20105546</value>"
+          },
+          "4": {
+            "value": "<value>20588882</value>"
+          }
+        }
+      },
+      "9-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F9": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $809.05 to $810.04, inclusive.",
+            "value": "<value>809.05</value><footnoteId id=\"F9\"/>"
+          },
+          "4": {
+            "F21": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $809.05 to $810.04, inclusive.",
+            "value": "<value>809.05</value><footnoteId id=\"F21\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20105846</value>"
+          },
+          "4": {
+            "value": "<value>20589182</value>"
+          }
+        }
+      },
+      "6-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F6": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $805.02 to $806.01, inclusive.",
+            "value": "<value>805.4854</value><footnoteId id=\"F6\"/>"
+          },
+          "4": {
+            "F18": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $805.02 to $806.01, inclusive.",
+            "value": "<value>805.4854</value><footnoteId id=\"F18\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20107856</value>"
+          },
+          "4": {
+            "value": "<value>20591192</value>"
+          }
+        }
+      },
+      "5-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F5": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $804.01 to $805.00, inclusive.",
+            "value": "<value>804.5362</value><footnoteId id=\"F5\"/>"
+          },
+          "4": {
+            "F17": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $804.01 to $805.00, inclusive.",
+            "value": "<value>804.5362</value><footnoteId id=\"F17\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20110256</value>"
+          },
+          "4": {
+            "value": "<value>20593592</value>"
+          }
+        }
+      },
+      "7-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F7": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $806.23 to $807.22, inclusive.",
+            "value": "<value>806.7168</value><footnoteId id=\"F7\"/>"
+          },
+          "4": {
+            "F19": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $806.23 to $807.22, inclusive.",
+            "value": "<value>806.7168</value><footnoteId id=\"F19\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>20106246</value>"
+          },
+          "4": {
+            "value": "<value>20589582</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1652044/0001209191-17-006770"
+  },
+  "1144178/000114036117001853/0001140361-17-001853": {
+    "dt": {},
+    "head": {
+      "1": {
+        "rptOwnerSecFileNum": {
+          "4A": {
+            "value": "001-37977"
+          },
+          "4": {
+            "value": "000-28508"
+          }
+        },
+        "rptOwnerCity": {
+          "4A": {
+            "value": "DUBLIN"
+          },
+          "4": {
+            "value": "DUBLIN 15"
+          }
+        },
+        "rptOwnerZipCode": {
+          "4A": {
+            "value": "15"
+          },
+          "4": {
+            "value": "77902"
+          }
+        }
+      }
+    },
+    "ndt": {},
+    "accNum": "1012477/0001144204-17-000316"
+  },
+  "785787/000143774917000878/0001437749-17-000878": {
+    "dt": {},
+    "head": {
+      "1": {
+        "periodOfReport": {
+          "4A": {
+            "value": "2017-01-17"
+          },
+          "4": {
+            "value": "2017-01-19"
+          }
+        }
+      }
+    },
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>433883</value>"
+          },
+          "4": {
+            "F2": "An additional 28,596 shares of common stock have been deducted from total holdings since the last Form 4 filing due to the reporting person's election to receive cash in lieu of shares upon the vesting of performance units on January 5, 2017, January 7, 2017, and January 17, 2017.",
+            "value": "<value>433883</value><footnoteId id=\"F2\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "785787/0001437749-17-000828"
+  },
+  "66740/000112760217007814/0001127602-17-007814": {
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "4": {
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017).",
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>5888.0262</value>"
+          },
+          "4": {
+            "value": "<value>1125</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>4763.471</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>4763.471</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>3570.0262</value>"
+          },
+          "4": {
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan.",
+            "value": "<value>1125</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes.",
+            "value": "<value>2318</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>2331</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>751</value>"
+          },
+          "4": {
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan.",
+            "value": "<value>751</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>752</value>"
+          },
+          "4": {
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan.",
+            "value": "<value>752</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004756"
+  },
+  "1696119/000161631817000058/0001616318-17-000058": {
+    "dt": {
+      "1-transaction": {
+        "exerciseDate": {
+          "4A": {
+            "F2": "Options become exercisable in three equal annual installments beginning March 13, 2018.",
+            "value": "<footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "F3": "Options become exercisable in three equal annual installments beginning March 13, 2018.",
+            "value": "<footnoteId id=\"F3\"/>"
+          }
+        },
+        "underlyingSecurityShares": {
+          "4A": {
+            "value": "<value>8088.0</value>"
+          },
+          "4": {
+            "value": "<value>11379.0</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "Due to an administrative error, the number of options was overreported in the Form 4 filed March 16, 2017.",
+            "value": "<value>8088</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>11379</value>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>8088</value>"
+          },
+          "4": {
+            "value": "<value>11379</value>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {},
+    "accNum": "1696119/0001616318-17-000051"
+  },
+  "1545654/000122520817001901/0001225208-17-001901": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>10367.0000</value>"
+          },
+          "4": {
+            "value": "<value>10281.0000</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F2": "The number of shares reflected in the Reporting Person's Form 4 (filed on January 26, 2017) was incorrectly reported. The correct number of shares is reflected in this amendment.",
+            "value": "<value>492.0000</value><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "value": "<value>578.0000</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1545654/0001225208-17-001733"
+  },
+  "66740/000112760217004878/0001127602-17-004878": {
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "4": {
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017).",
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1.",
+            "value": "<value>65347</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>56989</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1.",
+            "value": "<value>61283</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan.",
+            "value": "<value>56989</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>4064</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>1468</value>"
+          },
+          "4": {
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan.",
+            "value": "<value>1468</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004774"
+  },
+  "1800/000117911017010670/0001179110-17-010670": {
+    "dt": {},
+    "head": {
+      "1": {
+        "issuerBusinessStreet1": {
+          "4A": {},
+          "4": {
+            "value": "100 ABBOTT PARK ROAD"
+          }
+        },
+        "rptOwnerMailStreet1": {
+          "4A": {
+            "value": "100 ABBOTT PARK ROAD"
+          },
+          "4": {
+            "value": "ONE ST JUDE MEDICAL DRIVE"
+          }
+        },
+        "rptOwnerMailState": {
+          "4A": {
+            "value": "IL"
+          },
+          "4": {
+            "value": "MN"
+          }
+        },
+        "issuerBusinessState": {
+          "4A": {},
+          "4": {
+            "value": "IL"
+          }
+        },
+        "rptOwnerMailZip": {
+          "4A": {
+            "value": "60064-3500"
+          },
+          "4": {
+            "value": "MN"
+          }
+        },
+        "issuerIncorpState": {
+          "4A": {},
+          "4": {
+            "value": "IL"
+          }
+        },
+        "rptOwnerBusinessPhone": {
+          "4A": {
+            "value": "8479376100"
+          },
+          "4": {}
+        },
+        "rptOwnerZipCode": {
+          "4A": {
+            "value": "60064"
+          },
+          "4": {
+            "value": "60064-6400"
+          }
+        },
+        "rptOwnerMailStreet2": {
+          "4A": {
+            "value": "D-322 AP6D"
+          },
+          "4": {}
+        },
+        "issuerFiscalYrEnd": {
+          "4A": {},
+          "4": {
+            "value": "1231"
+          }
+        },
+        "issuerBusinessZip": {
+          "4A": {},
+          "4": {
+            "value": "60064-3500"
+          }
+        },
+        "rptOwnerMailCity": {
+          "4A": {
+            "value": "ABBOTT PARK"
+          },
+          "4": {
+            "value": "ST. PAUL"
+          }
+        },
+        "issuerBusinessCity": {
+          "4A": {},
+          "4": {
+            "value": "ABBOTT PARK"
+          }
+        },
+        "issuerBusinessPhone": {
+          "4A": {},
+          "4": {
+            "value": "8479376100"
+          }
+        },
+        "issuerIndustrialClassification": {
+          "4A": {},
+          "4": {
+            "value": "PHARMACEUTICAL PREPARATIONS [2834]"
+          }
+        },
+        "issuerIrs": {
+          "4A": {},
+          "4": {
+            "value": "360698440"
+          }
+        }
+      }
+    },
+    "ndt": {
+      "1-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F2": "On January 4, 2017, Abbott Laboratories (Abbott) acquired St. Jude Medical, Inc. (St. Jude Medical) pursuant to the Agreement and Plan of Merger by and among Abbott, St. Jude Medical, Vault Merger Sub, Inc. and Vault Merger Sub, LLC dated as of April 27, 2016 (the Merger Agreement). Upon the First Effective Time (as defined in the Merger Agreement), each outstanding St. Jude Medical common share (other than certain shares identified in the Merger Agreement) was converted into the right to receive (a) $46.75 in cash, without interest, and (b) 0.8708 common shares of Abbott.",
+            "value": "<footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "F1": "On January 4, 2017, Abbott Laboratories (Abbott) acquired St. Jude Medical, Inc. (St. Jude Medical) pursuant to the Agreement and Plan of Merger by and among Abbott, St. Jude Medical, Vault Merger Sub, Inc. and Vault Merger Sub, LLC dated as of April 27, 2016 (the Merger Agreement).  Upon the First Effective Time (as defined in the Merger Agreement), each outstanding St. Jude Medical common share (other than certain shares identified in the Merger Agreement) was converted into the right to receive (a) $46.75 in cash, without interest, and (b) 0.8708 common shares of Abbott.",
+            "value": "<footnoteId id=\"F1\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "Due to an administrative error that occurred prior to Abbott's acquisition of St. Jude Medical, Inc., the Form 4 filed on January 6, 2017 underreported the Abbott shares received by the reporting person pursuant to the Agreement and Plan of Merger by and among Abbott, St. Jude Medical, Inc., Vault Merger Sub, Inc., and Vault Merger Sub, LLC, by 413 shares.",
+            "value": "<value>114240</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>113827</value>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>116333</value>"
+          },
+          "4": {
+            "value": "<value>115327</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1800/0001104659-17-001246"
+  },
+  "1284862/000143774917003801/0001437749-17-003801": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "transactionAcquiredDisposedCode": {
+          "4A": {
+            "value": "<value>D</value>"
+          },
+          "4": {
+            "value": "<value>A</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1284862/0001437749-17-003457"
+  },
+  "1584738/000114420417020939/0001144204-17-020939": {
+    "dt": {
+      "1-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F2": "The reported securities are included within the securities purchased by the reporting person for $2.535 per share of common stock together with a warrant to purchase one share of common stock.",
+            "value": "<value>2.535</value><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "F1": "The reported securities are included within the securities purchased by the reporting person for $2.535 per share of common stock together with a warrant to purchase one share of common stock.",
+            "value": "<value>2.535</value><footnoteId id=\"F1\"/>"
+          }
+        },
+        "transactionCode": {
+          "4A": {
+            "value": "A"
+          },
+          "4": {
+            "value": "P"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "F2": "The reported securities are included within the securities purchased by the reporting person for $2.535 per share of common stock together with a warrant to purchase one share of common stock.",
+            "value": "<value>2.535</value><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "F1": "The reported securities are included within the securities purchased by the reporting person for $2.535 per share of common stock together with a warrant to purchase one share of common stock.",
+            "value": "<value>2.535</value><footnoteId id=\"F1\"/>"
+          }
+        },
+        "transactionCode": {
+          "4A": {
+            "value": "A"
+          },
+          "4": {
+            "value": "P"
+          }
+        }
+      }
+    },
+    "accNum": "1584738/0001144204-17-012978"
+  },
+  "1315549/000089924317002260/0000899243-17-002260": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "transactionFormType": {
+          "4A": {
+            "value": "5"
+          },
+          "4": {
+            "value": "4"
+          }
+        }
+      },
+      "2-transaction": {
+        "transactionFormType": {
+          "4A": {
+            "value": "5"
+          },
+          "4": {
+            "value": "4"
+          }
+        }
+      }
+    },
+    "accNum": "1315549/0000899243-17-002175"
+  },
+  "1498132/000002547517000026/0000025475-17-000026": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "On January 3, 2017 the Reporting Person mistakenly filed a Form 4 that contained one transaction that did not occur and one transaction with an incorrect amount.  The transaction that did not occur was a disposition, coded F, of 47,950 shares of Class A Common Stock.  The transaction that was incorrect was a dispositon, coded F, of 3,496 shares of Class A Common Stock, which should have been 2,509 shares of Class A Common Stock.  As of December 31, 2016, the Reporting Person's direct holdings were 143,318 shares of Class A Common Stock, as reflected above.",
+            "value": "<value>143318</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>94381</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "On January 3, 2017 the Reporting Person mistakenly filed a Form 4 that contained one transaction that did not occur and one transaction with an incorrect amount.  The transaction that did not occur was a disposition, coded F, of 47,950 shares of Class A Common Stock.  The transaction that was incorrect was a dispositon, coded F, of 3,496 shares of Class A Common Stock, which should have been 2,509 shares of Class A Common Stock.  As of December 31, 2016, the Reporting Person's direct holdings were 143,318 shares of Class A Common Stock, as reflected above.",
+            "value": "<value>2509</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "value": "<value>3496</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1498132/0000025475-17-000019"
+  },
+  "66740/000112760217007818/0001127602-17-007818": {
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "4": {
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017).",
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>13742.7475</value>"
+          },
+          "4": {
+            "value": "<value>5384</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>9695.7475</value>"
+          },
+          "4": {
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan.",
+            "value": "<value>5384</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes.",
+            "value": "<value>4047</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004763"
+  },
+  "66740/000112760217007816/0001127602-17-007816": {
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "4": {
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017).",
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>4248.7467</value>"
+          },
+          "4": {
+            "value": "<value>2586</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>1662.332</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>1662.332</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>3424.7467</value>"
+          },
+          "4": {
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan.",
+            "value": "<value>2586</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes.",
+            "value": "<value>824</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>836</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004760"
+  },
+  "893739/000121102217000006/0001211022-17-000006": {
+    "dt": {
+      "1-transaction": {
+        "underlyingSecurityShares": {
+          "4A": {
+            "value": "<value>108000.0</value>"
+          },
+          "4": {}
+        },
+        "conversionOrExercisePrice": {
+          "4A": {
+            "F2": "Performance based restricted stock cancelled by Board of Directors on 3/27/17.",
+            "value": "<footnoteId id=\"F2\"/>"
+          },
+          "4": {}
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>0</value>"
+          },
+          "4": {}
+        },
+        "transactionFormType": {
+          "4A": {
+            "value": "4"
+          },
+          "4": {}
+        },
+        "underlyingSecurityTitle": {
+          "4A": {
+            "value": "<value>Common Stock</value>"
+          },
+          "4": {}
+        },
+        "transactionAcquiredDisposedCode": {
+          "4A": {
+            "value": "<value>D</value>"
+          },
+          "4": {}
+        },
+        "transactionCode": {
+          "4A": {
+            "value": "J"
+          },
+          "4": {}
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>108000</value>"
+          },
+          "4": {}
+        },
+        "equitySwapInvolved": {
+          "4A": {
+            "value": "0"
+          },
+          "4": {}
+        },
+        "transactionPricePerShare": {
+          "4A": {
+            "value": "<value>0</value>"
+          },
+          "4": {}
+        },
+        "exerciseDate": {
+          "4A": {
+            "F2": "Performance based restricted stock cancelled by Board of Directors on 3/27/17.",
+            "value": "<footnoteId id=\"F2\"/>"
+          },
+          "4": {}
+        },
+        "transactionDate": {
+          "4A": {
+            "value": "<value>2017-03-27</value>"
+          },
+          "4": {}
+        },
+        "expirationDate": {
+          "4A": {
+            "F2": "Performance based restricted stock cancelled by Board of Directors on 3/27/17.",
+            "value": "<footnoteId id=\"F2\"/>"
+          },
+          "4": {}
+        },
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Common Stock</value>"
+          },
+          "4": {}
+        },
+        "directOrIndirectOwnership": {
+          "4A": {
+            "value": "<value>D</value>"
+          },
+          "4": {}
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>246819</value>"
+          },
+          "4": {
+            "value": "<value>174819</value>"
+          }
+        },
+        "transactionAcquiredDisposedCode": {
+          "4A": {
+            "value": "<value>A</value>"
+          },
+          "4": {
+            "value": "<value>D</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>72000</value>"
+          },
+          "4": {
+            "value": "<value>28770</value>"
+          }
+        },
+        "transactionCode": {
+          "4A": {
+            "value": "J"
+          },
+          "4": {
+            "value": "F"
+          }
+        }
+      }
+    },
+    "accNum": "893739/0001211022-17-000004"
+  },
+  "66740/000112760217007824/0001127602-17-007824": {
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "4": {
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017).",
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>6680.8475</value>"
+          },
+          "4": {
+            "value": "<value>5655</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>1025.99</value>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>1025.99</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>6159.8475</value>"
+          },
+          "4": {
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan.",
+            "value": "<value>5655</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes.",
+            "value": "<value>521</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary.",
+            "value": "<value>495</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>254</value>"
+          },
+          "4": {
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan.",
+            "value": "<value>254</value><footnoteId id=\"F3\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004767"
+  },
+  "1545654/000122520817001905/0001225208-17-001905": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>32691.0000</value>"
+          },
+          "4": {
+            "value": "<value>32628.0000</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F2": "The number of shares reflected in the Reporting Person's Form 4 (filed on January 26, 2017) was incorrectly reported. The correct number of shares is reflected in this amendment.",
+            "value": "<value>895.0000</value><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "value": "<value>958.0000</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1545654/0001225208-17-001731"
+  },
+  "1555074/000114036117045515/0001140361-17-045515": {
+    "dt": {},
+    "head": {
+      "1": {
+        "issuerBusinessStreet1": {
+          "4A": {},
+          "4": {
+            "value": "1110 STRAND ST, STE 2A"
+          }
+        },
+        "issuerMailCity": {
+          "4A": {},
+          "4": {
+            "value": "CHRISTIANSTED"
+          }
+        },
+        "issuerBusinessState": {
+          "4A": {},
+          "4": {
+            "value": "VI"
+          }
+        },
+        "rptOwnerMailZip": {
+          "4A": {
+            "value": "00820"
+          },
+          "4": {
+            "value": "00824"
+          }
+        },
+        "issuerIncorpState": {
+          "4A": {},
+          "4": {
+            "value": "VI"
+          }
+        },
+        "issuerMailZip": {
+          "4A": {},
+          "4": {
+            "value": "00820"
+          }
+        },
+        "rptOwnerBusinessPhone": {
+          "4A": {
+            "value": "(340) 692-1055"
+          },
+          "4": {}
+        },
+        "issuerFiscalYrEnd": {
+          "4A": {},
+          "4": {
+            "value": "1231"
+          }
+        },
+        "rptOwnerMailStreet1": {
+          "4A": {
+            "value": "5100 TAMARIND REEF"
+          },
+          "4": {
+            "value": "PO BOX 25437"
+          }
+        },
+        "issuerBusinessZip": {
+          "4A": {},
+          "4": {
+            "value": "00820"
+          }
+        },
+        "issuerBusinessCity": {
+          "4A": {},
+          "4": {
+            "value": "CHRISTIANSTED"
+          }
+        },
+        "issuerBusinessPhone": {
+          "4A": {},
+          "4": {
+            "value": "(340) 692-1055"
+          }
+        },
+        "issuerMailStreet1": {
+          "4A": {},
+          "4": {
+            "value": "1110 STRAND ST, STE 2A"
+          }
+        },
+        "issuerMailState": {
+          "4A": {},
+          "4": {
+            "value": "VI"
+          }
+        },
+        "issuerIndustrialClassification": {
+          "4A": {},
+          "4": {
+            "value": "REAL ESTATE [6500]"
+          }
+        },
+        "issuerIrs": {
+          "4A": {},
+          "4": {
+            "value": "660783125"
+          }
+        }
+      }
+    },
+    "ndt": {
+      "1-transaction": {
+        "transactionPricePerShare": {
+          "4A": {
+            "value": "<value>.97</value>"
+          },
+          "4": {
+            "value": "<value>0.66</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F1": "This amendment to Form 4 corrects Mr. Erbey's direct share ownership and an error in footnote (1), in each case, reflecting that Mr. Erbey directly beneficially owns 26,293 rather than 26,330 shares of common stock of Altisource Asset Management Corporation. As amended, footnote (1) reads in its entirety as follows: Represents shares gifted by Mr. Erbey to his spouse. This transaction resulted in a change in the form of beneficial ownership exempt under Rule 16a-13. As a result, Mr. Erbey directly beneficially owns 26,293 shares of common stock of Altisource Asset Management Corporation. No other changes to the original Form 4 are made by this filing.",
+            "value": "<value>3427</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "Represents shares gifted by Mr. Erbey to his spouse. This transaction resulted in a change in the form of beneficial ownership exempt under Rule 16a-13. As a result, Mr. Erbey directly beneficially owns 26,330 shares of common stock of Altisource Asset Management Corporation.",
+            "value": "<value>80000</value><footnoteId id=\"F1\"/>"
+          }
+        },
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "value": "<value>109720</value>"
+          },
+          "4": {
+            "value": "<value>106330</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1555074/0001140361-17-011031"
+  },
+  "1160077/000117970617000096/0001179706-17-000096": {
+    "dt": {
+      "1-transaction": {
+        "underlyingSecurityShares": {
+          "4A": {
+            "value": "<value>13499</value>"
+          },
+          "4": {
+            "value": "<value>10253</value>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "F4": "As previously reported, on 04/25/16 the reporting person was granted 10,169 restricted stock units (RSUs), all of which cliff vested on the earlier of 04/25/17 or the date of Issuer's 2017 Annual Stockholders Meeting. The number of RSUs that vested was an estimated amount, subject to change due to the vesting triggered during the Issuer's ex-dividend trading period prior to its spin-off of Everett SpinCo, Inc. on 04/01/17. The number of RSUs reported in this amendment reflects that conversion adjustment. Dividend equivalent rights accrue with respect to these RSUs when and as dividends are paid on Issuer's common stock. The number of derivative securities in column 5 includes 110 vested dividend equivalent rights and a de minimus adjustment of 0.5258 due to fractional rounding of the dividend equivalent rights. The RSUs that cliff vested were deferred as noted in footnote (2) above.",
+            "value": "<value>13499</value><footnoteId id=\"F4\"/>"
+          },
+          "4": {
+            "F4": "As previously reported, on 04/25/16 the reporting person was granted 10,169 restricted stock units (RSUs), all of which cliff vested on the earlier of 04/25/17 or the date of Issuer's 2017 Annual Stockholders Meeting. The number of RSUs that vested is an estimated amount, subject to change due to the vesting triggered during the Issuer's ex-dividend trading period prior to its spin-off of Everett SpinCo, Inc. on 04/01/17. Dividend equivalent rights accrue with respect to these RSUs when and as dividends are paid on Issuer's common stock.The number of derivative securities in column 5 includes 84 vested dividend equivalent rights and a de minimus adjustment of 0.5258 due to fractional rounding of the dividend equivalent rights.",
+            "value": "<value>10253</value><footnoteId id=\"F4\"/>"
+          }
+        }
+      }
+    },
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F2": "The reporting person elected to defer the receipt of common stock until the termination of his service as a member of the Issuer's Board of Directors. The number of deferred shares were subject to change due to the Issuer's spin-off of Everett SpinCo, Inc. on 04/01/17. The number of deferred shares reported in this amendment reflects that conversion adjustment.",
+            "F1": "The 1,095 shares issued to the reporting person on 02/28/17 pursuant to the Issuer's 2015 Stock Incentive Plan in lieu of Q4 cash retainer and chair fees of $25,000 for Issuer's Board Year 2016 were deferred pursuant to footnote (2) below.",
+            "value": "<value>125401.0962</value><footnoteId id=\"F1\"/><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "F2": "The reporting person elected to defer the receipt of common stock until the termination of his service as a member of the Issuer's Board of Directors.",
+            "value": "<value>90523.8865</value><footnoteId id=\"F2\"/>"
+          }
+        },
+        "transactionShares": {
+          "4A": {
+            "value": "<value>13499</value>"
+          },
+          "4": {
+            "value": "<value>10253</value>"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F1": "The 1,095 shares issued to the reporting person on 02/28/17 pursuant to the Issuer's 2015 Stock Incentive Plan in lieu of Q4 cash retainer and chair fees of $25,000 for Issuer's Board Year 2016 were deferred pursuant to footnote (2) below.",
+            "value": "<value>15660</value><footnoteId id=\"F1\"/>"
+          },
+          "4": {
+            "F1": "There is no reportable change since the last filing. This is a reiteration of holdings only.",
+            "value": "<value>16755</value><footnoteId id=\"F1\"/>"
+          }
+        }
+      }
+    },
+    "accNum": "1160077/0001179706-17-000048"
+  },
+  "1137692/000113769217000010/0001137692-17-000010": {
+    "dt": {},
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4A": {
+            "F2": "Amended to delete a holdings line duplicating direct holdings prior to the 2/27/2017 transactions.",
+            "F1": "Adjusted for a 3:2 stock split effective November 14, 2016.",
+            "value": "<value>37303</value><footnoteId id=\"F1\"/><footnoteId id=\"F2\"/>"
+          },
+          "4": {
+            "value": "<value>37303</value>"
+          }
+        }
+      }
+    },
+    "accNum": "1137692/0001137692-17-000001"
+  }
+}

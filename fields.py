@@ -174,14 +174,25 @@ numerical = ["transactionShares", "transactionPricePerShare", "sharesOwnedFollow
 categorical = ["securityTitle", "transactionCode", "equitySwapInvolved", "transactionAcquiredDisposedCode", "directOrIndirectOwnership", "natureOfOwnership", "transactionTimelines", "underlyingSecurityTitlesecurityTitle"]
 # categorical data w specified categories
 typedCategorical = ["transactionCode", "equitySwapInvolved", "transactionAcquiredDisposedCode", "directOrIndirectOwnership", "transactionTimelines"]
+typedCategoricalMap = {
+    "transactionCode": ["P", "S", "V", "A", "D", "F", "I", "M", "C", "E", "H", "O", "X", "G", "L", "W", "Z", "J", "K", "U"],
+    "equitySwapInvolved": ['0', '1'], 
+    "transactionAcquiredDisposedCode": ["A", "D"], 
+    "directOrIndirectOwnership": ["D", "I"], 
+    "transactionTimelines": ['0', '1']
+}
 date = ["transactionDate", "exerciseDate", "expirationDate"]
+allFields = numerical + categorical + date
 formPortion = ["head", "dt", "ndt"]
 
 ## Get analysis fields ##
 dataType = ["categorical", "numerical", "footnote", "date"]
 categoricalAnalysisType = {
     "changeDirection": ["+", "-"],
-    "changeType": ["update", "insert", "delete", "footnote in 4", "footnote in 4/a", "footnote content diff", "footnote id diff"]
+    "changeType": ["update", "insert", "delete", "footnote in 4", "footnote in 4/a", "footnote content diff", "footnote id diff"],
+    "directOrIndirectOwnership": [("D", "I"), ("I", "D")],
+    "transactionAcquiredDisposedCode": [("D", "A"), ("A", "D")],
+    "equitySwapInvolved": [(0, 1), (1, 0)]
 }
 numericalAnalysisType = ["amountChanged", "percentChange"]
 changeTypeVect = {

@@ -1,0 +1,3457 @@
+{
+  "66740/0001127602-17-007785": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>10860</value>"
+          },
+          "4A": {
+            "value": "<value>16811.8499</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 54.805,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 5951.849900000001
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>5951.38</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>5951.38</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>10860</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>16597.8499</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 52.835,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 5737.849900000001
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>174.486</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>214</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the number of shares of 3M Common Stock that will be delivered on a deferred basis as a result of the vesting of a performance share award made to the reporting person on March 3, 2014.  The number of shares previously reported as being withheld for the payment of FICA taxes was estimated.  This amendment is being filed to update the Form 4 with the actual number of shares withheld."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 22.646,
+            "fieldName": "transactionShares",
+            "changeDirection": "+",
+            "amountChanged": 39.51400000000001
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004744",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004882": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17167</value>"
+          },
+          "4A": {
+            "value": "<value>25526</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 48.692,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8359.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17167</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>25295</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 47.347,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8128.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>231.056</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>231.056</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004781",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004870": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5655</value>"
+          },
+          "4A": {
+            "value": "<value>6681</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 18.143,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 1026.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>1025.99</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>1025.99</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>254</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>254</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5655</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>6186</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 9.39,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 531.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>495</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>495</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004767",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004851": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>33579</value>"
+          },
+          "4A": {
+            "value": "<value>41938</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 24.894,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8359.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1103</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>1103</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>33579</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>37874</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 12.791,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4295.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4064</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004746",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007809": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "transactionShares": {
+          "4": {
+            "value": "<value>1025.99</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>1025.99</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>2340.6132</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>2351.6132</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 0.47,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 11.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>531</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>520</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 2.072,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -11.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004752",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007787": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17121</value>"
+          },
+          "4A": {
+            "value": "<value>24576.8427</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 43.548,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 7455.842700000001
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>7455.884</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>7455.884</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17121</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>24297.8427</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 41.918,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 7176.842700000001
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>209.842</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>279</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the number of shares of 3M Common Stock that will be delivered on a deferred basis as a result of the vesting of a performance share award made to the reporting person on March 3, 2014.  The number of shares previously reported as being withheld for the payment of FICA taxes was estimated.  This amendment is being filed to update the Form 4 with the actual number of shares withheld."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 32.957,
+            "fieldName": "transactionShares",
+            "changeDirection": "+",
+            "amountChanged": 69.15799999999999
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004748",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004878": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>56989</value>"
+          },
+          "4A": {
+            "value": "<value>65347</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 14.666,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8358.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1468</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>1468</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>56989</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>61283</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 7.535,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4294.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4064</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004774",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007812": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>6657</value>"
+          },
+          "4A": {
+            "value": "<value>10816.0412</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 62.476,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4159.0412
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4158.318</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4158.318</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>6657</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>8788.0412</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 32.012,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 2131.0411999999997
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>2040</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>2028</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 0.588,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -12.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004754",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007803": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>33579</value>"
+          },
+          "4A": {
+            "value": "<value>41937.7782</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 24.893,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8358.7782
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1103</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>1103</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>33579</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>37890.7782</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 12.841,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4311.778200000001
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4047</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 0.418,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -17.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004746",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-018755": {
+    "head": {},
+    "ndt": {
+      "6-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>20907</value>"
+          },
+          "4A": {
+            "value": "<value>20905</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 0.01,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "-",
+            "amountChanged": -2.0
+          }
+        }
+      },
+      "18-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>20907</value>"
+          },
+          "4A": {
+            "value": "<value>20907</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to an error caused by a third-party vendor, the reporting person in refiling a report filed earlier today, solely to correct the total holding reported in column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4/a"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-018736",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F1\"/>",
+            "F1": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/8/2011)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F2\"/>",
+            "F2": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/8/2011)."
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote id diff"
+            ]
+          }
+        }
+      },
+      "2-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F2\"/>",
+            "F2": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/5/2013)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/5/2013)."
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote id diff"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007824": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5655</value>"
+          },
+          "4A": {
+            "value": "<value>6680.8475</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 18.141,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 1025.8474999999999
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>1025.99</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>1025.99</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>254</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>254</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5655</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>6159.8475</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 8.927,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 504.84749999999985
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>495</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>521</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 5.253,
+            "fieldName": "transactionShares",
+            "changeDirection": "+",
+            "amountChanged": 26.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004767",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004880": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>152238</value>"
+          },
+          "4A": {
+            "value": "<value>199902</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 31.309,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 47664.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>47663.18</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>47663.18</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1543</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>1543</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>152238</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>198747</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 30.55,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 46509.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>1154.714</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>1154.714</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004778",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007789": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5977</value>"
+          },
+          "4A": {
+            "value": "<value>12729.2304</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 112.97,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 6752.2304
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>6752.296</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>6752.296</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5977</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>12476.2304</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 108.737,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 6499.2304
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>193.308</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>253</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the number of shares of 3M Common Stock that will be delivered on a deferred basis as a result of the vesting of a performance share award made to the reporting person on March 3, 2014.  The number of shares previously reported as being withheld for the payment of FICA taxes was estimated.  This amendment is being filed to update the Form 4 with the actual number of shares withheld."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 30.879,
+            "fieldName": "transactionShares",
+            "changeDirection": "+",
+            "amountChanged": 59.69200000000001
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004772",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007827": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>56989</value>"
+          },
+          "4A": {
+            "value": "<value>65347.4976</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 14.667,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8358.497600000002
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1468</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>1468</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>56989</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>61303.4976</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 7.571,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4314.497600000002
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4044</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 0.492,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -20.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004774",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007814": {
+    "head": {},
+    "ndt": {
+      "2-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>751</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>751</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1125</value>"
+          },
+          "4A": {
+            "value": "<value>5888.0262</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 423.38,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4763.0262
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4763.471</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4763.471</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>752</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>752</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1125</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>3570.0262</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 217.336,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 2445.0262
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>2331</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>2318</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 0.558,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -13.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004756",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004864": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5384</value>"
+          },
+          "4A": {
+            "value": "<value>13743</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 155.256,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8359.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5384</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>9679</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 79.773,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4295.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4064</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004763",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007794": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17167</value>"
+          },
+          "4A": {
+            "value": "<value>25526.0383</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 48.692,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8359.0383
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17167</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>25214.0383</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 46.875,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8047.0383
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>231.056</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>312</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the number of shares of 3M Common Stock that will be delivered on a deferred basis as a result of the vesting of a performance share award made to the reporting person on March 3, 2014.  The number of shares previously reported as being withheld for the payment of FICA taxes was estimated.  This amendment is being filed to update the Form 4 with the actual number of shares withheld."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 35.032,
+            "fieldName": "transactionShares",
+            "changeDirection": "+",
+            "amountChanged": 80.94399999999999
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004781",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007822": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17303</value>"
+          },
+          "4A": {
+            "value": "<value>24066.7303</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 39.09,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 6763.730299999999
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>6763.743</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>6763.743</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17303</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>20785.7303</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 20.128,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 3482.7302999999993
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>3295</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>3281</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 0.425,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -14.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004765",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004853": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17121</value>"
+          },
+          "4A": {
+            "value": "<value>24577</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 43.549,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 7456.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>7455.884</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>7455.884</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17121</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>24367</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 42.322,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 7246.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>209.842</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>209.842</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004748",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007816": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>2586</value>"
+          },
+          "4A": {
+            "value": "<value>4248.7467</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 64.298,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 1662.7466999999997
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>1662.332</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>1662.332</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>2586</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>3424.7467</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 32.434,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 838.7467000000001
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>836</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>824</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 1.435,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -12.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004760",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007798": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>22329</value>"
+          },
+          "4A": {
+            "value": "<value>30687.3881</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 37.433,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8358.3881
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>805</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>805</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>22329</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>26641.3881</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 19.313,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4312.3881
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4046</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 0.443,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -18.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004736",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004860": {
+    "head": {},
+    "ndt": {
+      "2-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>751</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>751</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1125</value>"
+          },
+          "4A": {
+            "value": "<value>5888</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 423.378,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4763.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4763.471</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4763.471</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>752</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>752</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1125</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>3557</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 216.178,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 2432.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>2331</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>2331</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004756",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004858": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>6657</value>"
+          },
+          "4A": {
+            "value": "<value>10816</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 62.476,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4159.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4158.318</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4158.318</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>6657</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>8776</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 31.831,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 2119.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>2040</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>2040</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004754",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004874": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5977</value>"
+          },
+          "4A": {
+            "value": "<value>12729</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 112.966,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 6752.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>6752.296</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>6752.296</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5977</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>12536</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 109.737,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 6559.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>193.308</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>193.308</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004772",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007791": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>152238</value>"
+          },
+          "4A": {
+            "value": "<value>199901.6563</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 31.309,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 47663.6563
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>47663.18</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>47663.18</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>1543</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>1543</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>152238</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>197832.6563</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 29.95,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 45594.6563
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>1154.714</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>2069</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the number of shares of 3M Common Stock that will be delivered on a deferred basis as a result of the vesting of a performance share award made to the reporting person on March 3, 2014.  The number of shares previously reported as being withheld for the payment of FICA taxes was estimated.  This amendment is being filed to update the Form 4 with the actual number of shares withheld."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 79.179,
+            "fieldName": "transactionShares",
+            "changeDirection": "+",
+            "amountChanged": 914.2860000000001
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004778",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007807": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17451</value>"
+          },
+          "4A": {
+            "value": "<value>28153.0213</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 61.326,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 10702.0213
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>10701.634</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>10701.634</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17451</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>22977.0213</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 31.666,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 5526.0213
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>5194</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>5176</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 0.347,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -18.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004750",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004868": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17303</value>"
+          },
+          "4A": {
+            "value": "<value>24067</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 39.091,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 6764.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>6763.743</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>6763.743</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17303</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>20772</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 20.049,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 3469.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>3295</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>3295</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004765",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004862": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>2586</value>"
+          },
+          "4A": {
+            "value": "<value>4249</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 64.308,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 1663.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>1662.332</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>1662.332</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>2586</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>3413</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 31.98,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 827.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>836</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>836</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004760",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004849": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>22329</value>"
+          },
+          "4A": {
+            "value": "<value>30687</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 37.431,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8358.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "1-holding": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>805</value><footnoteId id=\"F3\"/>",
+            "F3": "Includes shares acquired pursuant to the 3M Voluntary Investment Plan."
+          },
+          "4A": {
+            "value": "<value>805</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>22329</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>26623</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 19.231,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4294.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4064</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004736",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F4\"/>",
+            "F4": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-007818": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5384</value>"
+          },
+          "4A": {
+            "value": "<value>13742.7475</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": "update",
+            "percentChange": 155.252,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 8358.7475
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>8358.608</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>8358.608</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>5384</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>9695.7475</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ],
+            "percentChange": 80.084,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 4311.7474999999995
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>4064</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>4047</value><footnoteId id=\"F1\"/>",
+            "F1": "On February 9, 2017, the reporting person reported the imminent delivery of a number of shares of 3M Common Stock earned as a result of the 2014 performance shares awarded to the reporting person under the 3M Long-Term Incentive Plan.  The number of shares to be withheld from this delivery for the payment of withholding taxes was estimated at that time.  This amendment is being filed to update the Form 4 with the number of shares actually received after withholding taxes."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 0.418,
+            "fieldName": "transactionShares",
+            "changeDirection": "-",
+            "amountChanged": -17.0
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004763",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004856": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17451</value>"
+          },
+          "4A": {
+            "value": "<value>28153</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 61.326,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 10702.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>10701.634</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>10701.634</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>17451</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>22959</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 31.563,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 5508.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>5194</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered imminently pursuant to the terms of a performance share award made to the reporting person on March 3, 2014.  The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified.  The number of shares withheld for taxes are estimated and will be revised by amendment, if necessary."
+          },
+          "4A": {
+            "value": "<value>5194</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004750",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "66740/0001127602-17-004847": {
+    "head": {},
+    "ndt": {
+      "1-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>10860</value>"
+          },
+          "4A": {
+            "value": "<value>16812</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote in 4/a"
+            ],
+            "percentChange": 54.807,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 5952.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>5951.38</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>5951.38</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      },
+      "2-transaction": {
+        "sharesOwnedFollowingTransaction": {
+          "4": {
+            "value": "<value>10860</value><footnoteId id=\"F2\"/>",
+            "F2": "Includes shares acquired under 3M's General Employee Stock Purchase Plan."
+          },
+          "4A": {
+            "value": "<value>16637</value><footnoteId id=\"F1\"/>",
+            "F1": "Due to a computational error caused by a third-party vendor's filing software, the reporting person is refiling a report filed earlier today, solely to correct total holdings reported in Column 5 of Table 1."
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "changeType": [
+              "update",
+              "footnote content diff"
+            ],
+            "percentChange": 53.195,
+            "fieldName": "sharesOwnedFollowingTransaction",
+            "changeDirection": "+",
+            "amountChanged": 5777.0
+          }
+        },
+        "transactionShares": {
+          "4": {
+            "value": "<value>174.486</value><footnoteId id=\"F1\"/>",
+            "F1": "Represents shares of 3M common stock that will be delivered pursuant to the terms of a performance share award made to the reporting person on 3/3/2014. The performance-based vesting requirements applicable to such award were satisfied on the date reported in Column 2 above, which represents the date on which the level of performance attained was certified. The reporting person previously elected to defer receipt of the shares and will not have voting or investment powers with respect to these shares until they are issued. The number of shares withheld for FICA taxes was estimated and will be revised by amendment, if necessary"
+          },
+          "4A": {
+            "value": "<value>174.486</value>"
+          },
+          "analysis": {
+            "dataType": "numerical",
+            "fieldName": "transactionShares",
+            "changeType": "footnote in 4"
+          }
+        }
+      }
+    },
+    "accNum": "66740/0001127602-17-004744",
+    "dt": {
+      "1-transaction": {
+        "securityTitle": {
+          "4": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value><footnoteId id=\"F3\"/>",
+            "F3": "This option becomes exercisable in equal installments on each of the first three anniversaries of the grant date (2/7/2017)."
+          },
+          "4A": {
+            "value": "<value>Non-qualified Stock Option (Right to Buy)</value>"
+          },
+          "analysis": {
+            "dataType": "categorical",
+            "fieldName": "securityTitle",
+            "editDistance": 0,
+            "changeType": [
+              "update",
+              "footnote in 4"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

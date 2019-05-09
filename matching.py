@@ -188,17 +188,17 @@ def get4ATo4Matches(fourA):
         for key in totalScores.keys():
             probDist[key] = totalScores[key]/total 
 
-        # Only keep top possible match
-    #     aTo4[fourA[idx]] = max(probDist, key=probDist.get)
+        # TODO: Only keep top possible match
+        aTo4[fourA[idx]] = max(probDist, key=probDist.get)
 
         # TODO: Uncomment if want to see probability distribution of possible matches (based on head fields only)
-        values = sorted(probDist.values(), reverse=True)
-        aTo4[fourA[idx]] = dict()
-        for key in probDist.keys():
-            if probDist[key] in values[:4]: #only show top 4
-                aTo4[fourA[idx]][key] = probDist[key]
+#         values = sorted(probDist.values(), reverse=True)
+#         aTo4[fourA[idx]] = dict()
+#         for key in probDist.keys():
+#             if probDist[key] in values[:4]: #only show top 4
+#                 aTo4[fourA[idx]][key] = probDist[key]
 
-    print(json.dumps(aTo4, indent=2))
+    #print(json.dumps(aTo4, indent=2))
     return aTo4
 
 # Given list of fourAs, find most likely form 4 for each fourA, then describe changes between 4 and 4/A
@@ -310,7 +310,7 @@ def get4ATo4Changes(fourAs):
                 lenChanges = thisLenChanges  
 
         diff[fourA] = matchDiff
-    print(json.dumps(diff, indent=2))
+    #print(json.dumps(diff, indent=2))
     return diff
 
 headFields = getHeadFields()
