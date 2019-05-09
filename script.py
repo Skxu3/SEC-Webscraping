@@ -17,6 +17,7 @@ createTable(conn, 'form4dT', dTTblSql)
 createTable(conn, 'form4nDT', nDTTblSql)
 createTable(conn, 'form4footNote', footNoteTblFields)
 
+### TODO: change fname to .idx file
 fname = "2016Q4_2017Q4form4a_3MCO.idx"
 
 with open(fname) as f:

@@ -168,6 +168,7 @@ Get all analyses dictionaries
     rowIds['portion']: list of rowId of returned analyses (used to index into database)
 - params: 
     dataType: "categorical" | "numerical"
+    fieldName: which field you want to see changes in (ex: "securityTitle")
     analysisType: see fields of analysisDictionary (ex:"amountChanged")
     analysisSubType: 
         categorical ex: analysisType=changeType, analysisSubType=1 -> return all changeType=1

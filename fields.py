@@ -210,3 +210,18 @@ dataTypeVect = {
     "date": 2,
     "footnote" : 3
 }
+
+### Prediction
+defaultVal = {
+  'amountChanged': 0,
+  'changeDirection': -1,
+  'changeType': -1,
+  'dataType': -1,
+  'fieldName': -1,
+  'percentChange': 0    
+}
+defaultNumVal = {
+   'transactionShares': 0,
+   'transactionPricePerShare': 0,
+   'sharesOwnedFollowingTransaction': 0, 
+}
